@@ -1,0 +1,6 @@
+{
+    "whitespace": true,
+    "newlines": true,
+    "grammar": true,
+    "regex": true
+}

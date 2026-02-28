@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python test_regex_fix.py:*)",
+      "Bash(python3:*)",
+      "Bash(where:*)",
+      "Bash(py test_regex_fix.py)",
+      "Bash(findstr:*)",
+      "Bash(py test_full_pipeline.py:*)",
+      "Bash(py test_csv_commas.py)"
+    ]
+  }
+}

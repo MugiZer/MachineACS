@@ -1,0 +1,4002 @@
+[
+  {
+    "record_id": 0,
+    "data": "    Artificial intelligence is transforming the world.       "
+  },
+  {
+    "record_id": 1,
+    "data": "    Data cleaning is a crucial step in the pipeline.     "
+  },
+  {
+    "record_id": 2,
+    "data": "    Quality data leads to better performance.      "
+  },
+  {
+    "record_id": 3,
+    "data": "      DATA CLEANING IS A CRUCIAL STEP IN THE PIPELINE.    ..."
+  },
+  {
+    "record_id": 4,
+    "data": "  Natural language processing is a field of AI.      "
+  },
+  {
+    "record_id": 5,
+    "data": "A CLEAN DATASET IS A HAPPY DATASET."
+  },
+  {
+    "record_id": 6,
+    "data": "structured data facilitates efficient analysis."
+  },
+  {
+    "record_id": 7,
+    "data": "      Data cleaning is a crucial step in the pipeline.   @@@ "
+  },
+  {
+    "record_id": 8,
+    "data": "  Quality data leads to better performance.      ---"
+  },
+  {
+    "record_id": 9,
+    "data": "FastAPI makes building APIs easy and fast."
+  },
+  {
+    "record_id": 10,
+    "data": "Python is a versatile programming language."
+  },
+  {
+    "record_id": 11,
+    "data": "    Quality data leads to better performance.  "
+  },
+  {
+    "record_id": 12,
+    "data": "Machine learning models require clean data."
+  },
+  {
+    "record_id": 13,
+    "data": "    Machine learning modles require clean data.      \n\n"
+  },
+  {
+    "record_id": 14,
+    "data": "    STRUCTURED DATA FACILITATES EFFICIENT ANALYSIS.    "
+  },
+  {
+    "record_id": 15,
+    "data": "      Artificial intelligence is transforming teh world.  "
+  },
+  {
+    "record_id": 16,
+    "data": "  Data cleaning is a crucial step in the pipeline.  ---"
+  },
+  {
+    "record_id": 17,
+    "data": "  A CLEAN DATASET IS A HAPPY DATASET.    ???"
+  },
+  {
+    "record_id": 18,
+    "data": "      Natural language processing is a field of AI.      "
+  },
+  {
+    "record_id": 19,
+    "data": "Data cleaning is a crucial step in the pipeline. @@@ "
+  },
+  {
+    "record_id": 20,
+    "data": "    quality data leads to better performance.  "
+  },
+  {
+    "record_id": 21,
+    "data": "    FastAPI makes building APIs easy and fast.  "
+  },
+  {
+    "record_id": 22,
+    "data": "    STRUCTURED DATA FACILITATES EFFICIENT ANALYSIS.    "
+  },
+  {
+    "record_id": 23,
+    "data": "    FastAPI makes building APIs easy and fast.    "
+  },
+  {
+    "record_id": 24,
+    "data": "      STRUCTURED DATA FACILITATES EFFICIENT ANALYSIS.    ..."
+  },
+  {
+    "record_id": 25,
+    "data": "  DATA CLEANING IS A CRUCIAL STEP IN THE PIPELINE.      "
+  },
+  {
+    "record_id": 26,
+    "data": "  FastAPI makes building APIs easy and fast.  "
+  },
+  {
+    "record_id": 27,
+    "data": "Natural language processing is a field of AI."
+  },
+  {
+    "record_id": 28,
+    "data": "    Natural language processing is a field of AI.      "
+  },
+  {
+    "record_id": 29,
+    "data": "      The quick brown fox jmps over the lazy dog.       ### "
+  },
+  {
+    "record_id": 30,
+    "data": "  Machine learning models require clean data.       "
+  },
+  {
+    "record_id": 31,
+    "data": "  Python is a versatile programming language.    "
+  },
+  {
+    "record_id": 32,
+    "data": "  A clean dataset is a happy dataset.     "
+  },
+  {
+    "record_id": 33,
+    "data": "      Machine learning models require clean data.  "
+  },
+  {
+    "record_id": 34,
+    "data": "  Structured data facilitates efficient analysis.    !!!"
+  },
+  {
+    "record_id": 35,
+    "data": "  Quality data leads to better performance.  "
+  },
+  {
+    "record_id": 36,
+    "data": "  FastAPI makes building APIs easy and fast.  "
+  },
+  {
+    "record_id": 37,
+    "data": "      Natural language processing is a field of AI.  "
+  },
+  {
+    "record_id": 38,
+    "data": "    The quik brown fox jumps over the lazy dog.      ..."
+  },
+  {
+    "record_id": 39,
+    "data": "Artificial intelligence is transforming the world...."
+  },
+  {
+    "record_id": 40,
+    "data": "  python is a versatile programming language.         "
+  },
+  {
+    "record_id": 41,
+    "data": "  A clean dataset is a happy dataset.         "
+  },
+  {
+    "record_id": 42,
+    "data": "Machine learning modles require clean data."
+  },
+  {
+    "record_id": 43,
+    "data": "  Artificial intelligence is transforming the world.    "
+  },
+  {
+    "record_id": 44,
+    "data": "    Data cleaning is a crucial step in teh pipeline.     ### "
+  },
+  {
+    "record_id": 45,
+    "data": "    Structured data facilitates efficient analysis.     "
+  },
+  {
+    "record_id": 46,
+    "data": "  A clean dataset is a happy dataset.    "
+  },
+  {
+    "record_id": 47,
+    "data": "  Natural language processing is a field of AI.      "
+  },
+  {
+    "record_id": 48,
+    "data": "    Quality data leads to better performance.     "
+  },
+  {
+    "record_id": 49,
+    "data": "structured data facilitates efficient analysis."
+  },
+  {
+    "record_id": 50,
+    "data": "FastAPI makes building APIs easy and fast."
+  },
+  {
+    "record_id": 51,
+    "data": "FastAPI makes building APIs easy and fast.???"
+  },
+  {
+    "record_id": 52,
+    "data": "  Machine learning models require clean data.     "
+  },
+  {
+    "record_id": 53,
+    "data": "    Python is a versatile programming language.      \n\n"
+  },
+  {
+    "record_id": 54,
+    "data": "    Natural language processing is a feild of AI.  "
+  },
+  {
+    "record_id": 55,
+    "data": "Natural language processing is a field of AI."
+  },
+  {
+    "record_id": 56,
+    "data": "  FastAPI makes building APIs easy and fast.  "
+  },
+  {
+    "record_id": 57,
+    "data": "  The quick brown fox jumps over the lazy dog.     "
+  },
+  {
+    "record_id": 58,
+    "data": "      data cleaning is a crucial step in the pipeline.   ### "
+  },
+  {
+    "record_id": 59,
+    "data": "Machine learning models require clean data."
+  },
+  {
+    "record_id": 60,
+    "data": "  FastAPI makes building APIs easy and fast.    \n\n"
+  },
+  {
+    "record_id": 61,
+    "data": "  Artificial intelligence is transforming the world.      "
+  },
+  {
+    "record_id": 62,
+    "data": "  The quick brown fox jmps over teh lazy dog.       "
+  },
+  {
+    "record_id": 63,
+    "data": "Natural langage processing is a field of AI.   "
+  },
+  {
+    "record_id": 64,
+    "data": "    A clean dataset is a happy dataset.  "
+  },
+  {
+    "record_id": 65,
+    "data": "    Python is a versatile programming language.  "
+  },
+  {
+    "record_id": 66,
+    "data": "  a clean dataset is a happy dataset.     "
+  },
+  {
+    "record_id": 67,
+    "data": "Data cleaning is a crucial step in the pipeline. "
+  },
+  {
+    "record_id": 68,
+    "data": "    FastAPI makes building APIs easy and fast.    \n\n"
+  },
+  {
+    "record_id": 69,
+    "data": "    The quik brown fox jumps over the lazy dog.      "
+  },
+  {
+    "record_id": 70,
+    "data": "Machine learning models require clean data. "
+  },
+  {
+    "record_id": 71,
+    "data": "  Natural language processing is a field of AI.     "
+  },
+  {
+    "record_id": 72,
+    "data": "Quality data leads to better performance.   "
+  },
+  {
+    "record_id": 73,
+    "data": "The quik brown fox jumps over the lazy dog."
+  },
+  {
+    "record_id": 74,
+    "data": "  Machine learning models require clean data.  \n\n"
+  },
+  {
+    "record_id": 75,
+    "data": "  a clean dataset is a happy dataset.     @@@ "
+  },
+  {
+    "record_id": 76,
+    "data": "Data cleaning is a crucial step in teh pipeline."
+  },
+  {
+    "record_id": 77,
+    "data": "  Artificial intelligence is transforming the world.  "
+  },
+  {
+    "record_id": 78,
+    "data": "Structured data facilitates efficient analysis."
+  },
+  {
+    "record_id": 79,
+    "data": "    a clean dataset is a happy dataset.      \n\n"
+  },
+  {
+    "record_id": 80,
+    "data": "  Data cleaning is a crucial step in the pipeline.     ### "
+  },
+  {
+    "record_id": 81,
+    "data": "      Natural langage processing is a field of AI.  ???"
+  },
+  {
+    "record_id": 82,
+    "data": "      A CLEAN DATASET IS A HAPPY DATASET.      ---"
+  },
+  {
+    "record_id": 83,
+    "data": "THE QUIK BROWN FOX JUMPS OVER THE LAZY DOG."
+  },
+  {
+    "record_id": 84,
+    "data": "    The quick brown fox jumps over the lazy dog.  "
+  },
+  {
+    "record_id": 85,
+    "data": "  Natural language processing is a field of AI.       "
+  },
+  {
+    "record_id": 86,
+    "data": "  Natural language processing is a field of AI.    "
+  },
+  {
+    "record_id": 87,
+    "data": "      Python is a versatile programming language.  "
+  },
+  {
+    "record_id": 88,
+    "data": "MACHINE LEARNING MODELS REQUIRE CLEAN DATA. "
+  },
+  {
+    "record_id": 89,
+    "data": "    Machine learning models require clean data.     "
+  },
+  {
+    "record_id": 90,
+    "data": "  Artificial intelligence is transforming the world.      "
+  },
+  {
+    "record_id": 91,
+    "data": "Python is a versatile programming language. ### "
+  },
+  {
+    "record_id": 92,
+    "data": "A clean dataset is a happy dataset. @@@ "
+  },
+  {
+    "record_id": 93,
+    "data": "  Machine learning modles require clean data.     "
+  },
+  {
+    "record_id": 94,
+    "data": "  Python is a versatile programming langage.     "
+  },
+  {
+    "record_id": 95,
+    "data": "  A clean dataset is a happy dataset.  "
+  },
+  {
+    "record_id": 96,
+    "data": "  Structured data facilitates efficient analysis.    "
+  },
+  {
+    "record_id": 97,
+    "data": "    A clean dataset is a happy dataset.    "
+  },
+  {
+    "record_id": 98,
+    "data": "FastAPI makes building APIs easy and fast."
+  },
+  {
+    "record_id": 99,
+    "data": "FastAPI makes building APIs easy and fast."
+  },
+  {
+    "record_id": 100,
+    "data": "Python is a versatile programming language.   "
+  },
+  {
+    "record_id": 101,
+    "data": "Machine learning models require clean data."
+  },
+  {
+    "record_id": 102,
+    "data": "      Artificial intelligence is transforming the world.     @@@ "
+  },
+  {
+    "record_id": 103,
+    "data": "  NATURAL LANGUAGE PROCESSING IS A FEILD OF AI.    "
+  },
+  {
+    "record_id": 104,
+    "data": "  Data cleaning is a crucial step in teh pipeline.  "
+  },
+  {
+    "record_id": 105,
+    "data": "  Natural language processing is a field of AI.  \n\n"
+  },
+  {
+    "record_id": 106,
+    "data": "      Python is a versatile programming language.    "
+  },
+  {
+    "record_id": 107,
+    "data": "  Python is a versatile programming language.      "
+  },
+  {
+    "record_id": 108,
+    "data": "  Quality data leads to better performance.    "
+  },
+  {
+    "record_id": 109,
+    "data": "Python is a versatile programming language."
+  },
+  {
+    "record_id": 110,
+    "data": "Data cleaning is a crucial step in the pipeline. "
+  },
+  {
+    "record_id": 111,
+    "data": "      Python is a versatile programming language.  ???"
+  },
+  {
+    "record_id": 112,
+    "data": "      FastAPI makes building APIs easy and fast.    !!!"
+  },
+  {
+    "record_id": 113,
+    "data": "FastAPI makes building APIs easy and fast.   "
+  },
+  {
+    "record_id": 114,
+    "data": "    Natural langage processing is a feild of AI.      ..."
+  },
+  {
+    "record_id": 115,
+    "data": "  The quik brown fox jumps over the lazy dog.      \n\n"
+  },
+  {
+    "record_id": 116,
+    "data": "Structured data facilitates efficient analysis.   "
+  },
+  {
+    "record_id": 117,
+    "data": "      Python is a versatile programming langage.    ???"
+  },
+  {
+    "record_id": 118,
+    "data": "  Natural language processing is a field of AI.  "
+  },
+  {
+    "record_id": 119,
+    "data": "  Machine learning models require clean data.         "
+  },
+  {
+    "record_id": 120,
+    "data": "      Structured data facilitates efficient analysis.  "
+  },
+  {
+    "record_id": 121,
+    "data": "  Artificial intelligence is transforming the world.    ---"
+  },
+  {
+    "record_id": 122,
+    "data": "  QUALITY DATA LEADS TO BETTER PERFORMANCE.  "
+  },
+  {
+    "record_id": 123,
+    "data": "      FastAPI makes building APIs easy and fast.      "
+  },
+  {
+    "record_id": 124,
+    "data": "    Quality data leads to better performance.    "
+  },
+  {
+    "record_id": 125,
+    "data": "  QUALITY DATA LEADS TO BETTER PERFORMANCE.  ---"
+  },
+  {
+    "record_id": 126,
+    "data": "    a clean dataset is a happy dataset.  "
+  },
+  {
+    "record_id": 127,
+    "data": "    artificial intelligence is transforming the world.      "
+  },
+  {
+    "record_id": 128,
+    "data": "    The quick brown fox jmps over the lazy dog.    "
+  },
+  {
+    "record_id": 129,
+    "data": "      A clean dataset is a happy dataset.     @@@ "
+  },
+  {
+    "record_id": 130,
+    "data": "      FastAPI makes building APIs easy and fast.       @@@ "
+  },
+  {
+    "record_id": 131,
+    "data": "  Artificial intelligence is transforming the world.  "
+  },
+  {
+    "record_id": 132,
+    "data": "    natural language processing is a field of ai.    "
+  },
+  {
+    "record_id": 133,
+    "data": "FastAPI makes building APIs easy and fast.   "
+  },
+  {
+    "record_id": 134,
+    "data": "      The quick brown fox jumps over the lazy dog.      "
+  },
+  {
+    "record_id": 135,
+    "data": "Quality data leads to better performance."
+  },
+  {
+    "record_id": 136,
+    "data": "Quality data leads to better performance."
+  },
+  {
+    "record_id": 137,
+    "data": "    Machine learning modles require clean data.  "
+  },
+  {
+    "record_id": 138,
+    "data": "Machine learning models require clean data."
+  },
+  {
+    "record_id": 139,
+    "data": "Python is a versatile programming language.   "
+  },
+  {
+    "record_id": 140,
+    "data": "Artificial intelligence is transforming the world. ### "
+  },
+  {
+    "record_id": 141,
+    "data": "    a clean dataset is a happy dataset.       @@@ "
+  },
+  {
+    "record_id": 142,
+    "data": "      Natural language processing is a field of AI.     @@@ "
+  },
+  {
+    "record_id": 143,
+    "data": "Artificial intelligence is transforming the world.!!!"
+  },
+  {
+    "record_id": 144,
+    "data": "    Data cleaning is a crucial step in the pipeline.    !!!"
+  },
+  {
+    "record_id": 145,
+    "data": "A clean dataset is a happy dataset. "
+  },
+  {
+    "record_id": 146,
+    "data": "Structured data facilitates efficient analysis."
+  },
+  {
+    "record_id": 147,
+    "data": "FASTAPI MAKES BUILDING APIS EASY AND FAST."
+  },
+  {
+    "record_id": 148,
+    "data": "      The quick brown fox jumps over the lazy dog.    "
+  },
+  {
+    "record_id": 149,
+    "data": "  Artificial intelligence is transforming the world.      "
+  },
+  {
+    "record_id": 150,
+    "data": "Natural language processing is a feild of AI."
+  },
+  {
+    "record_id": 151,
+    "data": "Data cleaning is a crucial step in the pipeline. ### "
+  },
+  {
+    "record_id": 152,
+    "data": "Quality data leads to better performance.---"
+  },
+  {
+    "record_id": 153,
+    "data": "Data cleaning is a crucial step in the pipeline.\n\n"
+  },
+  {
+    "record_id": 154,
+    "data": "      The quik brown fox jmps over the lazy dog.  "
+  },
+  {
+    "record_id": 155,
+    "data": "a clean dataset is a happy dataset. ### "
+  },
+  {
+    "record_id": 156,
+    "data": "      Structured data facilitates efficient analysis.    "
+  },
+  {
+    "record_id": 157,
+    "data": "    Artificial intelligence is transforming the world.       "
+  },
+  {
+    "record_id": 158,
+    "data": "      QUALITY DATA LEADS TO BETTER PERFORMANCE.  !!!"
+  },
+  {
+    "record_id": 159,
+    "data": "      the quick brown fox jumps over the lazy dog.     @@@ "
+  },
+  {
+    "record_id": 160,
+    "data": "    Python is a versatile programming language.      "
+  },
+  {
+    "record_id": 161,
+    "data": "FASTAPI MAKES BUILDING APIS EASY AND FAST."
+  },
+  {
+    "record_id": 162,
+    "data": "      The quick brown fox jmps over teh lazy dog.       "
+  },
+  {
+    "record_id": 163,
+    "data": "  Quality data leads to better performance.     "
+  },
+  {
+    "record_id": 164,
+    "data": "Quality data leads to better performance."
+  },
+  {
+    "record_id": 165,
+    "data": "The quick brown fox jumps over the lazy dog."
+  },
+  {
+    "record_id": 166,
+    "data": "    Natural langage processing is a field of AI.  ???"
+  },
+  {
+    "record_id": 167,
+    "data": "  Natural language processing is a field of AI.    ---"
+  },
+  {
+    "record_id": 168,
+    "data": "FASTAPI MAKES BUILDING APIS EASY AND FAST."
+  },
+  {
+    "record_id": 169,
+    "data": "    Machine learning models require clean data.    !!!"
+  },
+  {
+    "record_id": 170,
+    "data": "FastAPI makes building APIs easy and fast."
+  },
+  {
+    "record_id": 171,
+    "data": "STRUCTURED DATA FACILITATES EFFICIENT ANALYSIS."
+  },
+  {
+    "record_id": 172,
+    "data": "      Natural language processing is a field of AI.      "
+  },
+  {
+    "record_id": 173,
+    "data": "Structured data facilitates efficient analysis. "
+  },
+  {
+    "record_id": 174,
+    "data": "Machine learning models require clean data."
+  },
+  {
+    "record_id": 175,
+    "data": "Structured data facilitates efficient analysis. @@@ "
+  },
+  {
+    "record_id": 176,
+    "data": "      Artificial intelligence is transforming the world.      "
+  },
+  {
+    "record_id": 177,
+    "data": "      Artificial intelligence is transforming the world.    "
+  },
+  {
+    "record_id": 178,
+    "data": "      fastapi makes building apis easy and fast.    "
+  },
+  {
+    "record_id": 179,
+    "data": "      NATURAL LANGUAGE PROCESSING IS A FIELD OF AI.    \n\n"
+  },
+  {
+    "record_id": 180,
+    "data": "    Python is a versatile programming language.    "
+  },
+  {
+    "record_id": 181,
+    "data": "    STRUCTURED DATA FACILITATES EFFICIENT ANALYSIS.      ---"
+  },
+  {
+    "record_id": 182,
+    "data": "      Structured data facilitates efficient analysis.      "
+  },
+  {
+    "record_id": 183,
+    "data": "The quick brown fox jmps over the lazy dog.   "
+  },
+  {
+    "record_id": 184,
+    "data": "    Machine learning modles require clean data.    "
+  },
+  {
+    "record_id": 185,
+    "data": "      Artificial intelligence is transforming teh world.   ### "
+  },
+  {
+    "record_id": 186,
+    "data": "      Data cleaning is a crucial step in teh pipeline.  ..."
+  },
+  {
+    "record_id": 187,
+    "data": "Artificial intelligence is transforming the world.   "
+  },
+  {
+    "record_id": 188,
+    "data": "    FastAPI makes building APIs easy and fast.    ..."
+  },
+  {
+    "record_id": 189,
+    "data": "Structured data facilitates efficient analysis.!!!"
+  },
+  {
+    "record_id": 190,
+    "data": "  Structured data facilitates efficient analysis.    "
+  },
+  {
+    "record_id": 191,
+    "data": "    The quick brown fox jumps over the lazy dog.    "
+  },
+  {
+    "record_id": 192,
+    "data": "Quality data leads to better performance.   "
+  },
+  {
+    "record_id": 193,
+    "data": "  FastAPI makes building APIs easy and fast.      !!!"
+  },
+  {
+    "record_id": 194,
+    "data": "  A clean dataset is a happy dataset.      "
+  },
+  {
+    "record_id": 195,
+    "data": "    Quality data leads to better performance.    "
+  },
+  {
+    "record_id": 196,
+    "data": "      Natural language processing is a field of AI.       @@@ "
+  },
+  {
+    "record_id": 197,
+    "data": "    A clean dataset is a happy dataset.       "
+  },
+  {
+    "record_id": 198,
+    "data": "the quik brown fox jumps over the lazy dog.!!!"
+  },
+  {
+    "record_id": 199,
+    "data": "      Python is a versatile programming langage.       "
+  },
+  {
+    "record_id": 200,
+    "data": "  Machine learning models require clean data.         "
+  },
+  {
+    "record_id": 201,
+    "data": "      quality data leads to better performance.      !!!"
+  },
+  {
+    "record_id": 202,
+    "data": "      Machine learning models require clean data.  "
+  },
+  {
+    "record_id": 203,
+    "data": "    Natural language processing is a field of AI.      ???"
+  },
+  {
+    "record_id": 204,
+    "data": "      FASTAPI MAKES BUILDING APIS EASY AND FAST.    "
+  },
+  {
+    "record_id": 205,
+    "data": "    Natural language processing is a field of AI.      !!!"
+  },
+  {
+    "record_id": 206,
+    "data": "FastAPI makes building APIs easy and fast.!!!"
+  },
+  {
+    "record_id": 207,
+    "data": "  FastAPI makes building APIs easy and fast.       "
+  },
+  {
+    "record_id": 208,
+    "data": "  Structured data facilitates efficient analysis.      \n\n"
+  },
+  {
+    "record_id": 209,
+    "data": "  Machine learning models require clean data.      "
+  },
+  {
+    "record_id": 210,
+    "data": "Python is a versatile programming language. @@@ "
+  },
+  {
+    "record_id": 211,
+    "data": "    Quality data leads to better performance.    "
+  },
+  {
+    "record_id": 212,
+    "data": "      A clean dataset is a happy dataset.  "
+  },
+  {
+    "record_id": 213,
+    "data": "    Structured data facilitates efficient analysis.       "
+  },
+  {
+    "record_id": 214,
+    "data": "      Data cleaning is a crucial step in the pipeline.   "
+  },
+  {
+    "record_id": 215,
+    "data": "Python is a versatile programming language."
+  },
+  {
+    "record_id": 216,
+    "data": "Natural language processing is a field of AI. "
+  },
+  {
+    "record_id": 217,
+    "data": "NATURAL LANGUAGE PROCESSING IS A FIELD OF AI.---"
+  },
+  {
+    "record_id": 218,
+    "data": "      FastAPI makes building APIs easy and fast.      !!!"
+  },
+  {
+    "record_id": 219,
+    "data": "  Machine learning models require clean data.      "
+  },
+  {
+    "record_id": 220,
+    "data": "FastAPI makes building APIs easy and fast.???"
+  },
+  {
+    "record_id": 221,
+    "data": "      Machine learning models require clean data.    !!!"
+  },
+  {
+    "record_id": 222,
+    "data": "  ARTIFICIAL INTELLIGENCE IS TRANSFORMING THE WORLD.    "
+  },
+  {
+    "record_id": 223,
+    "data": "python is a versatile programming langage. ### "
+  },
+  {
+    "record_id": 224,
+    "data": "    FastAPI makes building APIs easy and fast.     "
+  },
+  {
+    "record_id": 225,
+    "data": "    Python is a versatile programming language.  "
+  },
+  {
+    "record_id": 226,
+    "data": "  Structured data facilitates efficient analysis.     @@@ "
+  },
+  {
+    "record_id": 227,
+    "data": "    Python is a versatile programming langage.      "
+  },
+  {
+    "record_id": 228,
+    "data": "    Quality data leads to better performance.    "
+  },
+  {
+    "record_id": 229,
+    "data": "    FastAPI makes building APIs easy and fast.  "
+  },
+  {
+    "record_id": 230,
+    "data": "    FASTAPI MAKES BUILDING APIS EASY AND FAST.      ---"
+  },
+  {
+    "record_id": 231,
+    "data": "  fastapi makes building apis easy and fast.  ???"
+  },
+  {
+    "record_id": 232,
+    "data": "Structured data facilitates efficient analysis."
+  },
+  {
+    "record_id": 233,
+    "data": "Python is a versatile programming language.   "
+  },
+  {
+    "record_id": 234,
+    "data": "FastAPI makes building APIs easy and fast."
+  },
+  {
+    "record_id": 235,
+    "data": "Structured data facilitates efficient analysis.???"
+  },
+  {
+    "record_id": 236,
+    "data": "  Quality data leads to better performance.  "
+  },
+  {
+    "record_id": 237,
+    "data": "FastAPI makes building APIs easy and fast."
+  },
+  {
+    "record_id": 238,
+    "data": "Structured data facilitates efficient analysis."
+  },
+  {
+    "record_id": 239,
+    "data": "  Python is a versatile programming langage.    "
+  },
+  {
+    "record_id": 240,
+    "data": "  structured data facilitates efficient analysis.      "
+  },
+  {
+    "record_id": 241,
+    "data": "Quality data leads to better performance."
+  },
+  {
+    "record_id": 242,
+    "data": "    Python is a versatile programming language.    "
+  },
+  {
+    "record_id": 243,
+    "data": "Natural language processing is a field of AI."
+  },
+  {
+    "record_id": 244,
+    "data": "A clean dataset is a happy dataset.---"
+  },
+  {
+    "record_id": 245,
+    "data": "      a clean dataset is a happy dataset.       "
+  },
+  {
+    "record_id": 246,
+    "data": "  Artificial intelligence is transforming teh world.  "
+  },
+  {
+    "record_id": 247,
+    "data": "Data cleaning is a crucial step in the pipeline...."
+  },
+  {
+    "record_id": 248,
+    "data": "  A clean dataset is a happy dataset.  "
+  },
+  {
+    "record_id": 249,
+    "data": "    FastAPI makes building APIs easy and fast.    "
+  },
+  {
+    "record_id": 250,
+    "data": "      Machine learning modles require clean data.         "
+  },
+  {
+    "record_id": 251,
+    "data": "artificial intelligence is transforming the world."
+  },
+  {
+    "record_id": 252,
+    "data": "      Structured data facilitates efficient analysis.  "
+  },
+  {
+    "record_id": 253,
+    "data": "    Machine learning models require clean data.      "
+  },
+  {
+    "record_id": 254,
+    "data": "    Artificial intelligence is transforming the world.    \n\n"
+  },
+  {
+    "record_id": 255,
+    "data": "A clean dataset is a happy dataset.---"
+  },
+  {
+    "record_id": 256,
+    "data": "      fastapi makes building apis easy and fast.      "
+  },
+  {
+    "record_id": 257,
+    "data": "FastAPI makes building APIs easy and fast. ### "
+  },
+  {
+    "record_id": 258,
+    "data": "    Python is a versatile programming language.    "
+  },
+  {
+    "record_id": 259,
+    "data": "Natural langage processing is a field of AI...."
+  },
+  {
+    "record_id": 260,
+    "data": "      the quick brown fox jumps over the lazy dog.  "
+  },
+  {
+    "record_id": 261,
+    "data": "Structured data facilitates efficient analysis. "
+  },
+  {
+    "record_id": 262,
+    "data": "  A clean dataset is a happy dataset.     "
+  },
+  {
+    "record_id": 263,
+    "data": "    artificial intelligence is transforming the world.    "
+  },
+  {
+    "record_id": 264,
+    "data": "Quality data leads to better performance.???"
+  },
+  {
+    "record_id": 265,
+    "data": "  A clean dataset is a happy dataset.    "
+  },
+  {
+    "record_id": 266,
+    "data": "    machine learning modles require clean data.      "
+  },
+  {
+    "record_id": 267,
+    "data": "    Python is a versatile programming language.      "
+  },
+  {
+    "record_id": 268,
+    "data": "STRUCTURED DATA FACILITATES EFFICIENT ANALYSIS.   "
+  },
+  {
+    "record_id": 269,
+    "data": "Quality data leads to better performance.   "
+  },
+  {
+    "record_id": 270,
+    "data": "ARTIFICIAL INTELLIGENCE IS TRANSFORMING TEH WORLD."
+  },
+  {
+    "record_id": 271,
+    "data": "    Structured data facilitates efficient analysis.      \n\n"
+  },
+  {
+    "record_id": 272,
+    "data": "Quality data leads to better performance. ### "
+  },
+  {
+    "record_id": 273,
+    "data": "  Structured data facilitates efficient analysis.      "
+  },
+  {
+    "record_id": 274,
+    "data": "    structured data facilitates efficient analysis.      "
+  },
+  {
+    "record_id": 275,
+    "data": "Data cleaning is a crucial step in the pipeline.!!!"
+  },
+  {
+    "record_id": 276,
+    "data": "      Machine learning models require clean data.    \n\n"
+  },
+  {
+    "record_id": 277,
+    "data": "A CLEAN DATASET IS A HAPPY DATASET.   "
+  },
+  {
+    "record_id": 278,
+    "data": "THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG."
+  },
+  {
+    "record_id": 279,
+    "data": "  Natural langage processing is a field of AI.   ### "
+  },
+  {
+    "record_id": 280,
+    "data": "    Data cleaning is a crucial step in the pipeline.  "
+  },
+  {
+    "record_id": 281,
+    "data": "FastAPI makes building APIs easy and fast."
+  },
+  {
+    "record_id": 282,
+    "data": "  Structured data facilitates efficient analysis.    "
+  },
+  {
+    "record_id": 283,
+    "data": "Data cleaning is a crucial step in teh pipeline."
+  },
+  {
+    "record_id": 284,
+    "data": "Structured data facilitates efficient analysis."
+  },
+  {
+    "record_id": 285,
+    "data": "Artificial intelligence is transforming the world."
+  },
+  {
+    "record_id": 286,
+    "data": "      The quick brown fox jmps over the lazy dog.     @@@ "
+  },
+  {
+    "record_id": 287,
+    "data": "    FastAPI makes building APIs easy and fast.  ..."
+  },
+  {
+    "record_id": 288,
+    "data": "FastAPI makes building APIs easy and fast."
+  },
+  {
+    "record_id": 289,
+    "data": "  Structured data facilitates efficient analysis.     "
+  },
+  {
+    "record_id": 290,
+    "data": "  Quality data leads to better performance.      ---"
+  },
+  {
+    "record_id": 291,
+    "data": "Artificial intelligence is transforming teh world."
+  },
+  {
+    "record_id": 292,
+    "data": "  Python is a versatile programming language.       @@@ "
+  },
+  {
+    "record_id": 293,
+    "data": "ARTIFICIAL INTELLIGENCE IS TRANSFORMING TEH WORLD. @@@ "
+  },
+  {
+    "record_id": 294,
+    "data": "  THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.    "
+  },
+  {
+    "record_id": 295,
+    "data": "      Machine learning models require clean data.  ???"
+  },
+  {
+    "record_id": 296,
+    "data": "Data cleaning is a crucial step in the pipeline.\n\n"
+  },
+  {
+    "record_id": 297,
+    "data": "      Structured data facilitates efficient analysis.      "
+  },
+  {
+    "record_id": 298,
+    "data": "      A clean dataset is a happy dataset.    "
+  },
+  {
+    "record_id": 299,
+    "data": "Python is a versatile programming langage.   "
+  },
+  {
+    "record_id": 300,
+    "data": "Structured data facilitates efficient analysis.   "
+  },
+  {
+    "record_id": 301,
+    "data": "      Quality data leads to better performance.      "
+  },
+  {
+    "record_id": 302,
+    "data": "    Python is a versatile programming language.    !!!"
+  },
+  {
+    "record_id": 303,
+    "data": "STRUCTURED DATA FACILITATES EFFICIENT ANALYSIS.!!!"
+  },
+  {
+    "record_id": 304,
+    "data": "  Natural language processing is a field of AI.  !!!"
+  },
+  {
+    "record_id": 305,
+    "data": "      Quality data leads to better performance.  \n\n"
+  },
+  {
+    "record_id": 306,
+    "data": "Artificial intelligence is transforming teh world."
+  },
+  {
+    "record_id": 307,
+    "data": "  Quality data leads to better performance.  !!!"
+  },
+  {
+    "record_id": 308,
+    "data": "  Machine learning models require clean data.      "
+  },
+  {
+    "record_id": 309,
+    "data": "  A clean dataset is a happy dataset.    "
+  },
+  {
+    "record_id": 310,
+    "data": "  FASTAPI MAKES BUILDING APIS EASY AND FAST.  "
+  },
+  {
+    "record_id": 311,
+    "data": "      Structured data facilitates efficient analysis.      "
+  },
+  {
+    "record_id": 312,
+    "data": "    DATA CLEANING IS A CRUCIAL STEP IN THE PIPELINE.     ### "
+  },
+  {
+    "record_id": 313,
+    "data": "      The quick brown fox jumps over the lazy dog.       "
+  },
+  {
+    "record_id": 314,
+    "data": "Machine learning models require clean data."
+  },
+  {
+    "record_id": 315,
+    "data": "Quality data leads to better performance.???"
+  },
+  {
+    "record_id": 316,
+    "data": "    The quick brown fox jumps over the lazy dog.    ---"
+  },
+  {
+    "record_id": 317,
+    "data": "Quality data leads to better performance."
+  },
+  {
+    "record_id": 318,
+    "data": "    the quick brown fox jumps over the lazy dog.    \n\n"
+  },
+  {
+    "record_id": 319,
+    "data": "  ARTIFICIAL INTELLIGENCE IS TRANSFORMING THE WORLD.    "
+  },
+  {
+    "record_id": 320,
+    "data": "    Machine learning models require clean data.  "
+  },
+  {
+    "record_id": 321,
+    "data": "  The quick brown fox jumps over the lazy dog.     "
+  },
+  {
+    "record_id": 322,
+    "data": "NATURAL LANGUAGE PROCESSING IS A FIELD OF AI."
+  },
+  {
+    "record_id": 323,
+    "data": "    natural language processing is a field of ai.      ..."
+  },
+  {
+    "record_id": 324,
+    "data": "    Machine learning modles require clean data.  "
+  },
+  {
+    "record_id": 325,
+    "data": "      A clean dataset is a happy dataset.       ### "
+  },
+  {
+    "record_id": 326,
+    "data": "    Natural language processing is a field of AI.  "
+  },
+  {
+    "record_id": 327,
+    "data": "NATURAL LANGUAGE PROCESSING IS A FIELD OF AI. ### "
+  },
+  {
+    "record_id": 328,
+    "data": "      Data cleaning is a crucial step in the pipeline.     "
+  },
+  {
+    "record_id": 329,
+    "data": "  Quality data leads to better performance.  !!!"
+  },
+  {
+    "record_id": 330,
+    "data": "    Artificial intelligence is transforming the world.   @@@ "
+  },
+  {
+    "record_id": 331,
+    "data": "      Python is a versatile programming language.  "
+  },
+  {
+    "record_id": 332,
+    "data": "      A clean dataset is a happy dataset.  "
+  },
+  {
+    "record_id": 333,
+    "data": "python is a versatile programming language."
+  },
+  {
+    "record_id": 334,
+    "data": "  Quality data leads to better performance.  "
+  },
+  {
+    "record_id": 335,
+    "data": "Python is a versatile programming langage."
+  },
+  {
+    "record_id": 336,
+    "data": "    artificial intelligence is transforming the world.  \n\n"
+  },
+  {
+    "record_id": 337,
+    "data": "  machine learning models require clean data.   "
+  },
+  {
+    "record_id": 338,
+    "data": "    FastAPI makes building APIs easy and fast.  "
+  },
+  {
+    "record_id": 339,
+    "data": "    A clean dataset is a happy dataset.   "
+  },
+  {
+    "record_id": 340,
+    "data": "    Machine learning models require clean data.      ..."
+  },
+  {
+    "record_id": 341,
+    "data": "Structured data facilitates efficient analysis."
+  },
+  {
+    "record_id": 342,
+    "data": "    Structured data facilitates efficient analysis.     "
+  },
+  {
+    "record_id": 343,
+    "data": "    DATA CLEANING IS A CRUCIAL STEP IN TEH PIPELINE.      ..."
+  },
+  {
+    "record_id": 344,
+    "data": "      Artificial intelligence is transforming the world.   ### "
+  },
+  {
+    "record_id": 345,
+    "data": "    Data cleaning is a crucial step in the pipeline.      "
+  },
+  {
+    "record_id": 346,
+    "data": "Python is a versatile programming language."
+  },
+  {
+    "record_id": 347,
+    "data": "A clean dataset is a happy dataset."
+  },
+  {
+    "record_id": 348,
+    "data": "  The quick brown fox jumps over the lazy dog.  "
+  },
+  {
+    "record_id": 349,
+    "data": "    A clean dataset is a happy dataset.      "
+  },
+  {
+    "record_id": 350,
+    "data": "    data cleaning is a crucial step in the pipeline.     "
+  },
+  {
+    "record_id": 351,
+    "data": "  FastAPI makes building APIs easy and fast.      "
+  },
+  {
+    "record_id": 352,
+    "data": "    natural langage processing is a field of ai.    "
+  },
+  {
+    "record_id": 353,
+    "data": "  Quality data leads to better performance.         "
+  },
+  {
+    "record_id": 354,
+    "data": "  NATURAL LANGUAGE PROCESSING IS A FIELD OF AI.    "
+  },
+  {
+    "record_id": 355,
+    "data": "    Data cleaning is a crucial step in the pipeline.    !!!"
+  },
+  {
+    "record_id": 356,
+    "data": "The quick brown fox jumps over the lazy dog. @@@ "
+  },
+  {
+    "record_id": 357,
+    "data": "      Python is a versatile programming language.      "
+  },
+  {
+    "record_id": 358,
+    "data": "quality data leads to better performance.   "
+  },
+  {
+    "record_id": 359,
+    "data": "    PYTHON IS A VERSATILE PROGRAMMING LANGUAGE.  \n\n"
+  },
+  {
+    "record_id": 360,
+    "data": "    Artificial intelligence is transforming the world.  "
+  },
+  {
+    "record_id": 361,
+    "data": "      Data cleaning is a crucial step in the pipeline.    "
+  },
+  {
+    "record_id": 362,
+    "data": "Machine learning models require clean data.   "
+  },
+  {
+    "record_id": 363,
+    "data": "      structured data facilitates efficient analysis.      "
+  },
+  {
+    "record_id": 364,
+    "data": "    Natural language processing is a field of AI.         "
+  },
+  {
+    "record_id": 365,
+    "data": "A clean dataset is a happy dataset.???"
+  },
+  {
+    "record_id": 366,
+    "data": "      Machine learning models require clean data.  "
+  },
+  {
+    "record_id": 367,
+    "data": "Quality data leads to better performance."
+  },
+  {
+    "record_id": 368,
+    "data": "    Artificial intelligence is transforming the world.      "
+  },
+  {
+    "record_id": 369,
+    "data": "    PYTHON IS A VERSATILE PROGRAMMING LANGAGE.    \n\n"
+  },
+  {
+    "record_id": 370,
+    "data": "Python is a versatile programming language.???"
+  },
+  {
+    "record_id": 371,
+    "data": "  Quality data leads to better performance.      \n\n"
+  },
+  {
+    "record_id": 372,
+    "data": "  Machine learning models require clean data.       "
+  },
+  {
+    "record_id": 373,
+    "data": "Artificial intelligence is transforming the world."
+  },
+  {
+    "record_id": 374,
+    "data": "  DATA CLEANING IS A CRUCIAL STEP IN THE PIPELINE.      ???"
+  },
+  {
+    "record_id": 375,
+    "data": "    A clean dataset is a happy dataset.    "
+  },
+  {
+    "record_id": 376,
+    "data": "      A clean dataset is a happy dataset.  "
+  },
+  {
+    "record_id": 377,
+    "data": "  Quality data leads to better performance.      \n\n"
+  },
+  {
+    "record_id": 378,
+    "data": "      Data cleaning is a crucial step in the pipeline.     @@@ "
+  },
+  {
+    "record_id": 379,
+    "data": "    Machine learning models require clean data.      "
+  },
+  {
+    "record_id": 380,
+    "data": "    The quick brown fox jumps over the lazy dog.  "
+  },
+  {
+    "record_id": 381,
+    "data": "Structured data facilitates efficient analysis."
+  },
+  {
+    "record_id": 382,
+    "data": "      Natural language processing is a field of AI.  "
+  },
+  {
+    "record_id": 383,
+    "data": "Python is a versatile programming langage. ### "
+  },
+  {
+    "record_id": 384,
+    "data": "  The quick brown fox jmps over the lazy dog.    "
+  },
+  {
+    "record_id": 385,
+    "data": "Quality data leads to better performance. ### "
+  },
+  {
+    "record_id": 386,
+    "data": "  The quick brown fox jumps over the lazy dog.    "
+  },
+  {
+    "record_id": 387,
+    "data": "PYTHON IS A VERSATILE PROGRAMMING LANGAGE."
+  },
+  {
+    "record_id": 388,
+    "data": "      structured data facilitates efficient analysis.      "
+  },
+  {
+    "record_id": 389,
+    "data": "ARTIFICIAL INTELLIGENCE IS TRANSFORMING THE WORLD.!!!"
+  },
+  {
+    "record_id": 390,
+    "data": "  FastAPI makes building APIs easy and fast.      "
+  },
+  {
+    "record_id": 391,
+    "data": "Quality data leads to better performance. "
+  },
+  {
+    "record_id": 392,
+    "data": "    FASTAPI MAKES BUILDING APIS EASY AND FAST.  \n\n"
+  },
+  {
+    "record_id": 393,
+    "data": "MACHINE LEARNING MODLES REQUIRE CLEAN DATA...."
+  },
+  {
+    "record_id": 394,
+    "data": "structured data facilitates efficient analysis."
+  },
+  {
+    "record_id": 395,
+    "data": "    FastAPI makes building APIs easy and fast.      "
+  },
+  {
+    "record_id": 396,
+    "data": "    Natural langage processing is a feild of AI.      !!!"
+  },
+  {
+    "record_id": 397,
+    "data": "    Structured data facilitates efficient analysis.  "
+  },
+  {
+    "record_id": 398,
+    "data": "    python is a versatile programming language.       ### "
+  },
+  {
+    "record_id": 399,
+    "data": "  ARTIFICIAL INTELLIGENCE IS TRANSFORMING TEH WORLD.      ..."
+  },
+  {
+    "record_id": 400,
+    "data": "      DATA CLEANING IS A CRUCIAL STEP IN THE PIPELINE.    ---"
+  },
+  {
+    "record_id": 401,
+    "data": "    A clean dataset is a happy dataset.    "
+  },
+  {
+    "record_id": 402,
+    "data": "Natural language processing is a field of AI."
+  },
+  {
+    "record_id": 403,
+    "data": "  A clean dataset is a happy dataset.     "
+  },
+  {
+    "record_id": 404,
+    "data": "    DATA CLEANING IS A CRUCIAL STEP IN THE PIPELINE.    "
+  },
+  {
+    "record_id": 405,
+    "data": "      Structured data facilitates efficient analysis.    "
+  },
+  {
+    "record_id": 406,
+    "data": "  FastAPI makes building APIs easy and fast.    "
+  },
+  {
+    "record_id": 407,
+    "data": "Data cleaning is a crucial step in the pipeline."
+  },
+  {
+    "record_id": 408,
+    "data": "The quik brown fox jumps over teh lazy dog."
+  },
+  {
+    "record_id": 409,
+    "data": "  Python is a versatile programming language.  "
+  },
+  {
+    "record_id": 410,
+    "data": "Data cleaning is a crucial step in the pipeline."
+  },
+  {
+    "record_id": 411,
+    "data": "    Quality data leads to better performance.  "
+  },
+  {
+    "record_id": 412,
+    "data": "    quality data leads to better performance.    "
+  },
+  {
+    "record_id": 413,
+    "data": "      The quik brown fox jumps over the lazy dog.  "
+  },
+  {
+    "record_id": 414,
+    "data": "Machine learning models require clean data."
+  },
+  {
+    "record_id": 415,
+    "data": "    Artificial intelligence is transforming the world.    "
+  },
+  {
+    "record_id": 416,
+    "data": "    fastapi makes building apis easy and fast.         "
+  },
+  {
+    "record_id": 417,
+    "data": "      Natural language processing is a field of AI.      "
+  },
+  {
+    "record_id": 418,
+    "data": "    python is a versatile programming language.      "
+  },
+  {
+    "record_id": 419,
+    "data": "    Python is a versatile programming language.    "
+  },
+  {
+    "record_id": 420,
+    "data": "      quality data leads to better performance.  \n\n"
+  },
+  {
+    "record_id": 421,
+    "data": "      Structured data facilitates efficient analysis.    ???"
+  },
+  {
+    "record_id": 422,
+    "data": "      Quality data leads to better performance.     @@@ "
+  },
+  {
+    "record_id": 423,
+    "data": "  The quick brown fox jmps over the lazy dog.    "
+  },
+  {
+    "record_id": 424,
+    "data": "  Structured data facilitates efficient analysis.   "
+  },
+  {
+    "record_id": 425,
+    "data": "      FastAPI makes building APIs easy and fast.     "
+  },
+  {
+    "record_id": 426,
+    "data": "    NATURAL LANGUAGE PROCESSING IS A FEILD OF AI.   ### "
+  },
+  {
+    "record_id": 427,
+    "data": "    Data cleaning is a crucial step in the pipeline.      "
+  },
+  {
+    "record_id": 428,
+    "data": "  Artificial intelligence is transforming the world.      "
+  },
+  {
+    "record_id": 429,
+    "data": "Data cleaning is a crucial step in the pipeline.???"
+  },
+  {
+    "record_id": 430,
+    "data": "      DATA CLEANING IS A CRUCIAL STEP IN THE PIPELINE.    "
+  },
+  {
+    "record_id": 431,
+    "data": "A clean dataset is a happy dataset.!!!"
+  },
+  {
+    "record_id": 432,
+    "data": "      Quality data leads to better performance.  ..."
+  },
+  {
+    "record_id": 433,
+    "data": "Artificial intelligence is transforming the world.!!!"
+  },
+  {
+    "record_id": 434,
+    "data": "      Machine learning models require clean data.      "
+  },
+  {
+    "record_id": 435,
+    "data": "  Python is a versatile programming language.  "
+  },
+  {
+    "record_id": 436,
+    "data": "Natural language processing is a field of AI."
+  },
+  {
+    "record_id": 437,
+    "data": "    Structured data facilitates efficient analysis.      "
+  },
+  {
+    "record_id": 438,
+    "data": "FastAPI makes building APIs easy and fast. @@@ "
+  },
+  {
+    "record_id": 439,
+    "data": "      FastAPI makes building APIs easy and fast.      "
+  },
+  {
+    "record_id": 440,
+    "data": "Quality data leads to better performance."
+  },
+  {
+    "record_id": 441,
+    "data": "      Data cleaning is a crucial step in teh pipeline.    "
+  },
+  {
+    "record_id": 442,
+    "data": "    STRUCTURED DATA FACILITATES EFFICIENT ANALYSIS.      "
+  },
+  {
+    "record_id": 443,
+    "data": "Natural langage processing is a field of AI."
+  },
+  {
+    "record_id": 444,
+    "data": "  Python is a versatile programming language.   ### "
+  },
+  {
+    "record_id": 445,
+    "data": "  A clean dataset is a happy dataset.    \n\n"
+  },
+  {
+    "record_id": 446,
+    "data": "      FastAPI makes building APIs easy and fast.      "
+  },
+  {
+    "record_id": 447,
+    "data": "The quick brown fox jumps over the lazy dog.   "
+  },
+  {
+    "record_id": 448,
+    "data": "    python is a versatile programming language.      "
+  },
+  {
+    "record_id": 449,
+    "data": "Machine learning models require clean data."
+  },
+  {
+    "record_id": 450,
+    "data": "    The quik brown fox jumps over the lazy dog.  "
+  },
+  {
+    "record_id": 451,
+    "data": "  Data cleaning is a crucial step in the pipeline.    "
+  },
+  {
+    "record_id": 452,
+    "data": "QUALITY DATA LEADS TO BETTER PERFORMANCE...."
+  },
+  {
+    "record_id": 453,
+    "data": "      Data cleaning is a crucial step in the pipeline.         "
+  },
+  {
+    "record_id": 454,
+    "data": "  Python is a versatile programming language.   "
+  },
+  {
+    "record_id": 455,
+    "data": "The quick brown fox jumps over the lazy dog."
+  },
+  {
+    "record_id": 456,
+    "data": "      Structured data facilitates efficient analysis.  "
+  },
+  {
+    "record_id": 457,
+    "data": "      Python is a versatile programming language.  ???"
+  },
+  {
+    "record_id": 458,
+    "data": "  Natural langage processing is a field of AI.  "
+  },
+  {
+    "record_id": 459,
+    "data": "FastAPI makes building APIs easy and fast."
+  },
+  {
+    "record_id": 460,
+    "data": "FastAPI makes building APIs easy and fast."
+  },
+  {
+    "record_id": 461,
+    "data": "    Natural language processing is a field of AI.      "
+  },
+  {
+    "record_id": 462,
+    "data": "  The quik brown fox jumps over the lazy dog.      "
+  },
+  {
+    "record_id": 463,
+    "data": "  QUALITY DATA LEADS TO BETTER PERFORMANCE.  "
+  },
+  {
+    "record_id": 464,
+    "data": "NATURAL LANGAGE PROCESSING IS A FIELD OF AI."
+  },
+  {
+    "record_id": 465,
+    "data": "FastAPI makes building APIs easy and fast."
+  },
+  {
+    "record_id": 466,
+    "data": "      A clean dataset is a happy dataset.  \n\n"
+  },
+  {
+    "record_id": 467,
+    "data": "      Python is a versatile programming language.      \n\n"
+  },
+  {
+    "record_id": 468,
+    "data": "The quick brown fox jumps over teh lazy dog."
+  },
+  {
+    "record_id": 469,
+    "data": "      A clean dataset is a happy dataset.    !!!"
+  },
+  {
+    "record_id": 470,
+    "data": "  Quality data leads to better performance.  "
+  },
+  {
+    "record_id": 471,
+    "data": "    FastAPI makes building APIs easy and fast.      ..."
+  },
+  {
+    "record_id": 472,
+    "data": "    Machine learning modles require clean data.  "
+  },
+  {
+    "record_id": 473,
+    "data": "      Quality data leads to better performance.       "
+  },
+  {
+    "record_id": 474,
+    "data": "  Python is a versatile programming language.   ### "
+  },
+  {
+    "record_id": 475,
+    "data": "      Machine learning models require clean data.    "
+  },
+  {
+    "record_id": 476,
+    "data": "  Python is a versatile programming language.  \n\n"
+  },
+  {
+    "record_id": 477,
+    "data": "A clean dataset is a happy dataset."
+  },
+  {
+    "record_id": 478,
+    "data": "    Python is a versatile programming language.  "
+  },
+  {
+    "record_id": 479,
+    "data": "    The quick brown fox jumps over teh lazy dog.  "
+  },
+  {
+    "record_id": 480,
+    "data": "FastAPI makes building APIs easy and fast."
+  },
+  {
+    "record_id": 481,
+    "data": "      Artificial intelligence is transforming the world.  ..."
+  },
+  {
+    "record_id": 482,
+    "data": "Machine learning models require clean data.\n\n"
+  },
+  {
+    "record_id": 483,
+    "data": "      Natural langage processing is a field of AI.       "
+  },
+  {
+    "record_id": 484,
+    "data": "  Machine learning models require clean data.      "
+  },
+  {
+    "record_id": 485,
+    "data": "    DATA CLEANING IS A CRUCIAL STEP IN THE PIPELINE.  "
+  },
+  {
+    "record_id": 486,
+    "data": "    fastapi makes building apis easy and fast.   @@@ "
+  },
+  {
+    "record_id": 487,
+    "data": "FastAPI makes building APIs easy and fast. @@@ "
+  },
+  {
+    "record_id": 488,
+    "data": "Quality data leads to better performance.   "
+  },
+  {
+    "record_id": 489,
+    "data": "    The quick brown fox jumps over the lazy dog.      "
+  },
+  {
+    "record_id": 490,
+    "data": "      A clean dataset is a happy dataset.      "
+  },
+  {
+    "record_id": 491,
+    "data": "  Data cleaning is a crucial step in the pipeline.    "
+  },
+  {
+    "record_id": 492,
+    "data": "FastAPI makes building APIs easy and fast.   "
+  },
+  {
+    "record_id": 493,
+    "data": "Data cleaning is a crucial step in teh pipeline."
+  },
+  {
+    "record_id": 494,
+    "data": "    FastAPI makes building APIs easy and fast.      !!!"
+  },
+  {
+    "record_id": 495,
+    "data": "    DATA CLEANING IS A CRUCIAL STEP IN TEH PIPELINE.    !!!"
+  },
+  {
+    "record_id": 496,
+    "data": "    Natural language processing is a field of AI.  "
+  },
+  {
+    "record_id": 497,
+    "data": "    Python is a versatile programming language.     "
+  },
+  {
+    "record_id": 498,
+    "data": "      Natural language processing is a field of AI.    "
+  },
+  {
+    "record_id": 499,
+    "data": "      FastAPI makes building APIs easy and fast.    !!!"
+  },
+  {
+    "record_id": 500,
+    "data": "    Machine learning models require clean data.    "
+  },
+  {
+    "record_id": 501,
+    "data": "      NATURAL LANGAGE PROCESSING IS A FEILD OF AI.  ..."
+  },
+  {
+    "record_id": 502,
+    "data": "A CLEAN DATASET IS A HAPPY DATASET...."
+  },
+  {
+    "record_id": 503,
+    "data": "      The quick brown fox jumps over the lazy dog.   "
+  },
+  {
+    "record_id": 504,
+    "data": "      The quick brown fox jumps over the lazy dog.      "
+  },
+  {
+    "record_id": 505,
+    "data": "    Quality data leads to better performance.     @@@ "
+  },
+  {
+    "record_id": 506,
+    "data": "Machine learning modles require clean data.\n\n"
+  },
+  {
+    "record_id": 507,
+    "data": "Structured data facilitates efficient analysis. "
+  },
+  {
+    "record_id": 508,
+    "data": "      Python is a versatile programming langage.       @@@ "
+  },
+  {
+    "record_id": 509,
+    "data": "Structured data facilitates efficient analysis.???"
+  },
+  {
+    "record_id": 510,
+    "data": "  natural language processing is a field of ai.    "
+  },
+  {
+    "record_id": 511,
+    "data": "    Data cleaning is a crucial step in the pipeline.  ..."
+  },
+  {
+    "record_id": 512,
+    "data": "  The quick brown fox jumps over teh lazy dog.  "
+  },
+  {
+    "record_id": 513,
+    "data": "      THE QUIK BROWN FOX JUMPS OVER THE LAZY DOG.    "
+  },
+  {
+    "record_id": 514,
+    "data": "The quick brown fox jumps over the lazy dog."
+  },
+  {
+    "record_id": 515,
+    "data": "      Structured data facilitates efficient analysis.       @@@ "
+  },
+  {
+    "record_id": 516,
+    "data": "Structured data facilitates efficient analysis.!!!"
+  },
+  {
+    "record_id": 517,
+    "data": "  A clean dataset is a happy dataset.      "
+  },
+  {
+    "record_id": 518,
+    "data": "      Artificial intelligence is transforming the world.     "
+  },
+  {
+    "record_id": 519,
+    "data": "  Artificial intelligence is transforming the world.       @@@ "
+  },
+  {
+    "record_id": 520,
+    "data": "      FastAPI makes building APIs easy and fast.      ..."
+  },
+  {
+    "record_id": 521,
+    "data": "    Natural language processing is a field of AI.      "
+  },
+  {
+    "record_id": 522,
+    "data": "A clean dataset is a happy dataset."
+  },
+  {
+    "record_id": 523,
+    "data": "      Structured data facilitates efficient analysis.    !!!"
+  },
+  {
+    "record_id": 524,
+    "data": "  Machine learning models require clean data.      !!!"
+  },
+  {
+    "record_id": 525,
+    "data": "      Natural language processing is a feild of AI.      ..."
+  },
+  {
+    "record_id": 526,
+    "data": "    python is a versatile programming language.    "
+  },
+  {
+    "record_id": 527,
+    "data": "Machine learning models require clean data.   "
+  },
+  {
+    "record_id": 528,
+    "data": "FastAPI makes building APIs easy and fast.!!!"
+  },
+  {
+    "record_id": 529,
+    "data": "  Machine learning models require clean data.      ---"
+  },
+  {
+    "record_id": 530,
+    "data": "      DATA CLEANING IS A CRUCIAL STEP IN THE PIPELINE.     "
+  },
+  {
+    "record_id": 531,
+    "data": "    DATA CLEANING IS A CRUCIAL STEP IN THE PIPELINE.    "
+  },
+  {
+    "record_id": 532,
+    "data": "FastAPI makes building APIs easy and fast."
+  },
+  {
+    "record_id": 533,
+    "data": "  NATURAL LANGUAGE PROCESSING IS A FIELD OF AI.  "
+  },
+  {
+    "record_id": 534,
+    "data": "Data cleaning is a crucial step in teh pipeline.   "
+  },
+  {
+    "record_id": 535,
+    "data": "The quick brown fox jumps over teh lazy dog."
+  },
+  {
+    "record_id": 536,
+    "data": "    Machine learning models require clean data.  \n\n"
+  },
+  {
+    "record_id": 537,
+    "data": "      a clean dataset is a happy dataset.     "
+  },
+  {
+    "record_id": 538,
+    "data": "  FastAPI makes building APIs easy and fast.    "
+  },
+  {
+    "record_id": 539,
+    "data": "DATA CLEANING IS A CRUCIAL STEP IN THE PIPELINE."
+  },
+  {
+    "record_id": 540,
+    "data": "      The quick brown fox jumps over the lazy dog.    "
+  },
+  {
+    "record_id": 541,
+    "data": "Python is a versatile programming language.!!!"
+  },
+  {
+    "record_id": 542,
+    "data": "The quick brown fox jumps over teh lazy dog.\n\n"
+  },
+  {
+    "record_id": 543,
+    "data": "Python is a versatile programming langage."
+  },
+  {
+    "record_id": 544,
+    "data": "Natural langage processing is a field of AI. @@@ "
+  },
+  {
+    "record_id": 545,
+    "data": "      A clean dataset is a happy dataset.  ..."
+  },
+  {
+    "record_id": 546,
+    "data": "  Natural language processing is a feild of AI.      "
+  },
+  {
+    "record_id": 547,
+    "data": "      A clean dataset is a happy dataset.      "
+  },
+  {
+    "record_id": 548,
+    "data": "Python is a versatile programming langage."
+  },
+  {
+    "record_id": 549,
+    "data": "      A clean dataset is a happy dataset.  "
+  },
+  {
+    "record_id": 550,
+    "data": "  Quality data leads to better performance.  ???"
+  },
+  {
+    "record_id": 551,
+    "data": "Natural language processing is a field of AI."
+  },
+  {
+    "record_id": 552,
+    "data": "      Python is a versatile programming langage.   @@@ "
+  },
+  {
+    "record_id": 553,
+    "data": "  The quick brown fox jumps over the lazy dog.    "
+  },
+  {
+    "record_id": 554,
+    "data": "      MACHINE LEARNING MODELS REQUIRE CLEAN DATA.       "
+  },
+  {
+    "record_id": 555,
+    "data": "  the quick brown fox jmps over the lazy dog.     "
+  },
+  {
+    "record_id": 556,
+    "data": "      Natural language processing is a feild of AI.    ---"
+  },
+  {
+    "record_id": 557,
+    "data": "    Natural langage processing is a field of AI.  ---"
+  },
+  {
+    "record_id": 558,
+    "data": "A clean dataset is a happy dataset."
+  },
+  {
+    "record_id": 559,
+    "data": "Python is a versatile programming language.---"
+  },
+  {
+    "record_id": 560,
+    "data": "      Natural language processing is a field of AI.      "
+  },
+  {
+    "record_id": 561,
+    "data": "    Quality data leads to better performance.   ### "
+  },
+  {
+    "record_id": 562,
+    "data": "    The quick brown fox jumps over the lazy dog.    ???"
+  },
+  {
+    "record_id": 563,
+    "data": "      Artificial intelligence is transforming the world.       @@@ "
+  },
+  {
+    "record_id": 564,
+    "data": "      quality data leads to better performance.      "
+  },
+  {
+    "record_id": 565,
+    "data": "      Data cleaning is a crucial step in the pipeline.      \n\n"
+  },
+  {
+    "record_id": 566,
+    "data": "FASTAPI MAKES BUILDING APIS EASY AND FAST. "
+  },
+  {
+    "record_id": 567,
+    "data": "      Data cleaning is a crucial step in the pipeline.    "
+  },
+  {
+    "record_id": 568,
+    "data": "      Natural language processing is a field of AI.    "
+  },
+  {
+    "record_id": 569,
+    "data": "    Machine learning models require clean data.  "
+  },
+  {
+    "record_id": 570,
+    "data": "  Structured data facilitates efficient analysis.         "
+  },
+  {
+    "record_id": 571,
+    "data": "  Artificial intelligence is transforming the world.      "
+  },
+  {
+    "record_id": 572,
+    "data": "  FastAPI makes building APIs easy and fast.    "
+  },
+  {
+    "record_id": 573,
+    "data": "A clean dataset is a happy dataset.   "
+  },
+  {
+    "record_id": 574,
+    "data": "    Python is a versatile programming language.  "
+  },
+  {
+    "record_id": 575,
+    "data": "    Artificial intelligence is transforming the world.    "
+  },
+  {
+    "record_id": 576,
+    "data": "    Quality data leads to better performance.  "
+  },
+  {
+    "record_id": 577,
+    "data": "PYTHON IS A VERSATILE PROGRAMMING LANGUAGE."
+  },
+  {
+    "record_id": 578,
+    "data": "  The quick brown fox jumps over the lazy dog.  "
+  },
+  {
+    "record_id": 579,
+    "data": "Python is a versatile programming language."
+  },
+  {
+    "record_id": 580,
+    "data": "  Data cleaning is a crucial step in the pipeline.      !!!"
+  },
+  {
+    "record_id": 581,
+    "data": "    Artificial intelligence is transforming the world.       "
+  },
+  {
+    "record_id": 582,
+    "data": "  Artificial intelligence is transforming the world.  ..."
+  },
+  {
+    "record_id": 583,
+    "data": "Machine learning models require clean data.   "
+  },
+  {
+    "record_id": 584,
+    "data": "    FastAPI makes building APIs easy and fast.      "
+  },
+  {
+    "record_id": 585,
+    "data": "Structured data facilitates efficient analysis.   "
+  },
+  {
+    "record_id": 586,
+    "data": "Natural langage processing is a field of AI."
+  },
+  {
+    "record_id": 587,
+    "data": "    Machine learning models require clean data.  "
+  },
+  {
+    "record_id": 588,
+    "data": "    Python is a versatile programming language.  "
+  },
+  {
+    "record_id": 589,
+    "data": "    artificial intelligence is transforming the world.    "
+  },
+  {
+    "record_id": 590,
+    "data": "PYTHON IS A VERSATILE PROGRAMMING LANGUAGE.   "
+  },
+  {
+    "record_id": 591,
+    "data": "Machine learning models require clean data.???"
+  },
+  {
+    "record_id": 592,
+    "data": "A clean dataset is a happy dataset."
+  },
+  {
+    "record_id": 593,
+    "data": "  FastAPI makes building APIs easy and fast.     "
+  },
+  {
+    "record_id": 594,
+    "data": "Data cleaning is a crucial step in the pipeline...."
+  },
+  {
+    "record_id": 595,
+    "data": "    DATA CLEANING IS A CRUCIAL STEP IN THE PIPELINE.    "
+  },
+  {
+    "record_id": 596,
+    "data": "    Structured data facilitates efficient analysis.      \n\n"
+  },
+  {
+    "record_id": 597,
+    "data": "Natural language processing is a field of AI.---"
+  },
+  {
+    "record_id": 598,
+    "data": "    Natural language processing is a field of AI.      "
+  },
+  {
+    "record_id": 599,
+    "data": "    Data cleaning is a crucial step in the pipeline.      "
+  },
+  {
+    "record_id": 600,
+    "data": "  Data cleaning is a crucial step in the pipeline.  "
+  },
+  {
+    "record_id": 601,
+    "data": "A clean dataset is a happy dataset."
+  },
+  {
+    "record_id": 602,
+    "data": "Quality data leads to better performance."
+  },
+  {
+    "record_id": 603,
+    "data": "      Structured data facilitates efficient analysis.  ???"
+  },
+  {
+    "record_id": 604,
+    "data": "  The quik brown fox jumps over teh lazy dog.         "
+  },
+  {
+    "record_id": 605,
+    "data": "  Python is a versatile programming langage.      "
+  },
+  {
+    "record_id": 606,
+    "data": "  Data cleaning is a crucial step in teh pipeline.    \n\n"
+  },
+  {
+    "record_id": 607,
+    "data": "Artificial intelligence is transforming the world.!!!"
+  },
+  {
+    "record_id": 608,
+    "data": "      Data cleaning is a crucial step in the pipeline.  "
+  },
+  {
+    "record_id": 609,
+    "data": "  Data cleaning is a crucial step in the pipeline.         "
+  },
+  {
+    "record_id": 610,
+    "data": "Natural language processing is a field of AI.???"
+  },
+  {
+    "record_id": 611,
+    "data": "Python is a versatile programming language."
+  },
+  {
+    "record_id": 612,
+    "data": "  A clean dataset is a happy dataset.  "
+  },
+  {
+    "record_id": 613,
+    "data": "      FastAPI makes building APIs easy and fast.       "
+  },
+  {
+    "record_id": 614,
+    "data": "Artificial intelligence is transforming teh world."
+  },
+  {
+    "record_id": 615,
+    "data": "The quick brown fox jumps over teh lazy dog. @@@ "
+  },
+  {
+    "record_id": 616,
+    "data": "  Data cleaning is a crucial step in the pipeline.    "
+  },
+  {
+    "record_id": 617,
+    "data": "FastAPI makes building APIs easy and fast."
+  },
+  {
+    "record_id": 618,
+    "data": "    Structured data facilitates efficient analysis.      "
+  },
+  {
+    "record_id": 619,
+    "data": "    Machine learning models require clean data.      ???"
+  },
+  {
+    "record_id": 620,
+    "data": "STRUCTURED DATA FACILITATES EFFICIENT ANALYSIS. @@@ "
+  },
+  {
+    "record_id": 621,
+    "data": "    python is a versatile programming language.     "
+  },
+  {
+    "record_id": 622,
+    "data": "    Data cleaning is a crucial step in the pipeline.    ???"
+  },
+  {
+    "record_id": 623,
+    "data": "A clean dataset is a happy dataset.---"
+  },
+  {
+    "record_id": 624,
+    "data": "  natural language processing is a field of ai.    \n\n"
+  },
+  {
+    "record_id": 625,
+    "data": "    Structured data facilitates efficient analysis.   "
+  },
+  {
+    "record_id": 626,
+    "data": "      Python is a versatile programming language.   ### "
+  },
+  {
+    "record_id": 627,
+    "data": "Structured data facilitates efficient analysis."
+  },
+  {
+    "record_id": 628,
+    "data": "A clean dataset is a happy dataset.---"
+  },
+  {
+    "record_id": 629,
+    "data": "  Structured data facilitates efficient analysis.  "
+  },
+  {
+    "record_id": 630,
+    "data": "      Quality data leads to better performance.  \n\n"
+  },
+  {
+    "record_id": 631,
+    "data": "  Data cleaning is a crucial step in the pipeline.       "
+  },
+  {
+    "record_id": 632,
+    "data": "Artificial intelligence is transforming the world."
+  },
+  {
+    "record_id": 633,
+    "data": "  FastAPI makes building APIs easy and fast.    "
+  },
+  {
+    "record_id": 634,
+    "data": "  MACHINE LEARNING MODLES REQUIRE CLEAN DATA.         "
+  },
+  {
+    "record_id": 635,
+    "data": "      The quick brown fox jumps over teh lazy dog.      "
+  },
+  {
+    "record_id": 636,
+    "data": "      FastAPI makes building APIs easy and fast.         "
+  },
+  {
+    "record_id": 637,
+    "data": "Quality data leads to better performance."
+  },
+  {
+    "record_id": 638,
+    "data": "    Python is a versatile programming language.       "
+  },
+  {
+    "record_id": 639,
+    "data": "Structured data facilitates efficient analysis...."
+  },
+  {
+    "record_id": 640,
+    "data": "    QUALITY DATA LEADS TO BETTER PERFORMANCE.       "
+  },
+  {
+    "record_id": 641,
+    "data": "Structured data facilitates efficient analysis."
+  },
+  {
+    "record_id": 642,
+    "data": "  PYTHON IS A VERSATILE PROGRAMMING LANGAGE.         "
+  },
+  {
+    "record_id": 643,
+    "data": "  python is a versatile programming langage.  ???"
+  },
+  {
+    "record_id": 644,
+    "data": "  The quick brown fox jumps over teh lazy dog.   @@@ "
+  },
+  {
+    "record_id": 645,
+    "data": "Artificial intelligence is transforming the world."
+  },
+  {
+    "record_id": 646,
+    "data": "  The quick brown fox jumps over the lazy dog.      "
+  },
+  {
+    "record_id": 647,
+    "data": "    Machine learning models require clean data.    ---"
+  },
+  {
+    "record_id": 648,
+    "data": "      A clean dataset is a happy dataset.     "
+  },
+  {
+    "record_id": 649,
+    "data": "    A clean dataset is a happy dataset.  "
+  },
+  {
+    "record_id": 650,
+    "data": "    Machine learning modles require clean data.    "
+  },
+  {
+    "record_id": 651,
+    "data": "  Machine learning models require clean data.    "
+  },
+  {
+    "record_id": 652,
+    "data": "  Quality data leads to better performance.  "
+  },
+  {
+    "record_id": 653,
+    "data": "      Python is a versatile programming langage.    "
+  },
+  {
+    "record_id": 654,
+    "data": "the quick brown fox jmps over teh lazy dog. ### "
+  },
+  {
+    "record_id": 655,
+    "data": "A clean dataset is a happy dataset."
+  },
+  {
+    "record_id": 656,
+    "data": "QUALITY DATA LEADS TO BETTER PERFORMANCE."
+  },
+  {
+    "record_id": 657,
+    "data": "  artificial intelligence is transforming the world.    ..."
+  },
+  {
+    "record_id": 658,
+    "data": "      Artificial intelligence is transforming teh world.    "
+  },
+  {
+    "record_id": 659,
+    "data": "    Structured data facilitates efficient analysis.  "
+  },
+  {
+    "record_id": 660,
+    "data": "      The quick brown fox jumps over the lazy dog.    \n\n"
+  },
+  {
+    "record_id": 661,
+    "data": "      Structured data facilitates efficient analysis.     @@@ "
+  },
+  {
+    "record_id": 662,
+    "data": "  Machine learning models require clean data.       "
+  },
+  {
+    "record_id": 663,
+    "data": "Quality data leads to better performance.---"
+  },
+  {
+    "record_id": 664,
+    "data": "FastAPI makes building APIs easy and fast."
+  },
+  {
+    "record_id": 665,
+    "data": "A clean dataset is a happy dataset."
+  },
+  {
+    "record_id": 666,
+    "data": "Structured data facilitates efficient analysis."
+  },
+  {
+    "record_id": 667,
+    "data": "      Quality data leads to better performance.      "
+  },
+  {
+    "record_id": 668,
+    "data": "  Artificial intelligence is transforming teh world.    "
+  },
+  {
+    "record_id": 669,
+    "data": "  A clean dataset is a happy dataset.      ..."
+  },
+  {
+    "record_id": 670,
+    "data": "      The quick brown fox jumps over the lazy dog.      "
+  },
+  {
+    "record_id": 671,
+    "data": "  FastAPI makes building APIs easy and fast.  \n\n"
+  },
+  {
+    "record_id": 672,
+    "data": "Python is a versatile programming language. @@@ "
+  },
+  {
+    "record_id": 673,
+    "data": "Machine learning modles require clean data."
+  },
+  {
+    "record_id": 674,
+    "data": "artificial intelligence is transforming the world."
+  },
+  {
+    "record_id": 675,
+    "data": "  FastAPI makes building APIs easy and fast.      "
+  },
+  {
+    "record_id": 676,
+    "data": "  Natural language processing is a field of AI.  "
+  },
+  {
+    "record_id": 677,
+    "data": "a clean dataset is a happy dataset. ### "
+  },
+  {
+    "record_id": 678,
+    "data": "Natural language processing is a field of AI.!!!"
+  },
+  {
+    "record_id": 679,
+    "data": "  Quality data leads to better performance.       ### "
+  },
+  {
+    "record_id": 680,
+    "data": "      Quality data leads to better performance.  "
+  },
+  {
+    "record_id": 681,
+    "data": "Natural language processing is a field of AI.   "
+  },
+  {
+    "record_id": 682,
+    "data": "Natural langage processing is a field of AI."
+  },
+  {
+    "record_id": 683,
+    "data": "The quick brown fox jumps over teh lazy dog.   "
+  },
+  {
+    "record_id": 684,
+    "data": "    Natural langage processing is a field of AI.         "
+  },
+  {
+    "record_id": 685,
+    "data": "      Structured data facilitates efficient analysis.      "
+  },
+  {
+    "record_id": 686,
+    "data": "    Quality data leads to better performance.  "
+  },
+  {
+    "record_id": 687,
+    "data": "Structured data facilitates efficient analysis."
+  },
+  {
+    "record_id": 688,
+    "data": "    structured data facilitates efficient analysis.      ???"
+  },
+  {
+    "record_id": 689,
+    "data": "    Artificial intelligence is transforming teh world.      "
+  },
+  {
+    "record_id": 690,
+    "data": "      Data cleaning is a crucial step in the pipeline.     ### "
+  },
+  {
+    "record_id": 691,
+    "data": "DATA CLEANING IS A CRUCIAL STEP IN THE PIPELINE."
+  },
+  {
+    "record_id": 692,
+    "data": "Structured data facilitates efficient analysis."
+  },
+  {
+    "record_id": 693,
+    "data": "    Artificial intelligence is transforming the world.    ???"
+  },
+  {
+    "record_id": 694,
+    "data": "      Natural language processing is a field of AI.     "
+  },
+  {
+    "record_id": 695,
+    "data": "      Artificial intelligence is transforming the world.    !!!"
+  },
+  {
+    "record_id": 696,
+    "data": "      Natural langage processing is a field of AI.     "
+  },
+  {
+    "record_id": 697,
+    "data": "      Machine learning models require clean data.      !!!"
+  },
+  {
+    "record_id": 698,
+    "data": "A clean dataset is a happy dataset."
+  },
+  {
+    "record_id": 699,
+    "data": "    quality data leads to better performance.    "
+  },
+  {
+    "record_id": 700,
+    "data": "    The quik brown fox jumps over teh lazy dog.     "
+  },
+  {
+    "record_id": 701,
+    "data": "      PYTHON IS A VERSATILE PROGRAMMING LANGAGE.    "
+  },
+  {
+    "record_id": 702,
+    "data": "      NATURAL LANGUAGE PROCESSING IS A FIELD OF AI.    !!!"
+  },
+  {
+    "record_id": 703,
+    "data": "    machine learning models require clean data.    "
+  },
+  {
+    "record_id": 704,
+    "data": "    Quality data leads to better performance.         "
+  },
+  {
+    "record_id": 705,
+    "data": "      A CLEAN DATASET IS A HAPPY DATASET.    "
+  },
+  {
+    "record_id": 706,
+    "data": "Machine learning models require clean data. "
+  },
+  {
+    "record_id": 707,
+    "data": "The quick brown fox jumps over the lazy dog."
+  },
+  {
+    "record_id": 708,
+    "data": "Quality data leads to better performance. ### "
+  },
+  {
+    "record_id": 709,
+    "data": "    A clean dataset is a happy dataset.       "
+  },
+  {
+    "record_id": 710,
+    "data": "      Artificial intelligence is transforming the world.    "
+  },
+  {
+    "record_id": 711,
+    "data": "      A CLEAN DATASET IS A HAPPY DATASET.  "
+  },
+  {
+    "record_id": 712,
+    "data": "Machine learning models require clean data.   "
+  },
+  {
+    "record_id": 713,
+    "data": "    Data cleaning is a crucial step in the pipeline.    ..."
+  },
+  {
+    "record_id": 714,
+    "data": "    A clean dataset is a happy dataset.  ---"
+  },
+  {
+    "record_id": 715,
+    "data": "    A clean dataset is a happy dataset.    \n\n"
+  },
+  {
+    "record_id": 716,
+    "data": "      DATA CLEANING IS A CRUCIAL STEP IN THE PIPELINE.  "
+  },
+  {
+    "record_id": 717,
+    "data": "  Artificial intelligence is transforming the world.    "
+  },
+  {
+    "record_id": 718,
+    "data": "  MACHINE LEARNING MODELS REQUIRE CLEAN DATA.       ### "
+  },
+  {
+    "record_id": 719,
+    "data": "Natural language processing is a field of AI."
+  },
+  {
+    "record_id": 720,
+    "data": "      fastapi makes building apis easy and fast.    \n\n"
+  },
+  {
+    "record_id": 721,
+    "data": "Python is a versatile programming language.   "
+  },
+  {
+    "record_id": 722,
+    "data": "Machine learning models require clean data."
+  },
+  {
+    "record_id": 723,
+    "data": "Python is a versatile programming language. ### "
+  },
+  {
+    "record_id": 724,
+    "data": "  Artificial intelligence is transforming the world.       ### "
+  },
+  {
+    "record_id": 725,
+    "data": "      Machine learning models require clean data.      "
+  },
+  {
+    "record_id": 726,
+    "data": "Machine learning modles require clean data."
+  },
+  {
+    "record_id": 727,
+    "data": "  Data cleaning is a crucial step in teh pipeline.      ..."
+  },
+  {
+    "record_id": 728,
+    "data": "Structured data facilitates efficient analysis.!!!"
+  },
+  {
+    "record_id": 729,
+    "data": "  QUALITY DATA LEADS TO BETTER PERFORMANCE.      "
+  },
+  {
+    "record_id": 730,
+    "data": "  FASTAPI MAKES BUILDING APIS EASY AND FAST.    \n\n"
+  },
+  {
+    "record_id": 731,
+    "data": "      Artificial intelligence is transforming teh world.      ..."
+  },
+  {
+    "record_id": 732,
+    "data": "    Artificial intelligence is transforming the world.      "
+  },
+  {
+    "record_id": 733,
+    "data": "Artificial intelligence is transforming the world."
+  },
+  {
+    "record_id": 734,
+    "data": "  a clean dataset is a happy dataset.  "
+  },
+  {
+    "record_id": 735,
+    "data": "      data cleaning is a crucial step in the pipeline.  !!!"
+  },
+  {
+    "record_id": 736,
+    "data": "    Machine learning models require clean data.    "
+  },
+  {
+    "record_id": 737,
+    "data": "Python is a versatile programming language."
+  },
+  {
+    "record_id": 738,
+    "data": "      a clean dataset is a happy dataset.   @@@ "
+  },
+  {
+    "record_id": 739,
+    "data": "Quality data leads to better performance."
+  },
+  {
+    "record_id": 740,
+    "data": "  A clean dataset is a happy dataset.      "
+  },
+  {
+    "record_id": 741,
+    "data": "  Python is a versatile programming language.    ..."
+  },
+  {
+    "record_id": 742,
+    "data": "    Python is a versatile programming langage.     "
+  },
+  {
+    "record_id": 743,
+    "data": "Quality data leads to better performance...."
+  },
+  {
+    "record_id": 744,
+    "data": "      Python is a versatile programming language.  "
+  },
+  {
+    "record_id": 745,
+    "data": "python is a versatile programming language. "
+  },
+  {
+    "record_id": 746,
+    "data": "      QUALITY DATA LEADS TO BETTER PERFORMANCE.         "
+  },
+  {
+    "record_id": 747,
+    "data": "      A clean dataset is a happy dataset.  "
+  },
+  {
+    "record_id": 748,
+    "data": "    FastAPI makes building APIs easy and fast.      "
+  },
+  {
+    "record_id": 749,
+    "data": "      STRUCTURED DATA FACILITATES EFFICIENT ANALYSIS.  ???"
+  },
+  {
+    "record_id": 750,
+    "data": "    The quik brown fox jumps over teh lazy dog.  "
+  },
+  {
+    "record_id": 751,
+    "data": "Python is a versatile programming language.   "
+  },
+  {
+    "record_id": 752,
+    "data": "      Machine learning models require clean data.    "
+  },
+  {
+    "record_id": 753,
+    "data": "      A clean dataset is a happy dataset.      "
+  },
+  {
+    "record_id": 754,
+    "data": "Machine learning models require clean data."
+  },
+  {
+    "record_id": 755,
+    "data": "      Natural language processing is a field of AI.    "
+  },
+  {
+    "record_id": 756,
+    "data": "      Machine learning modles require clean data.      \n\n"
+  },
+  {
+    "record_id": 757,
+    "data": "Artificial intelligence is transforming the world.\n\n"
+  },
+  {
+    "record_id": 758,
+    "data": "    natural language processing is a field of ai.      !!!"
+  },
+  {
+    "record_id": 759,
+    "data": "Natural language processing is a field of AI. @@@ "
+  },
+  {
+    "record_id": 760,
+    "data": "    Machine learning models require clean data.  \n\n"
+  },
+  {
+    "record_id": 761,
+    "data": "  Python is a versatile programming language.      ???"
+  },
+  {
+    "record_id": 762,
+    "data": "      FastAPI makes building APIs easy and fast.    "
+  },
+  {
+    "record_id": 763,
+    "data": "      FASTAPI MAKES BUILDING APIS EASY AND FAST.    !!!"
+  },
+  {
+    "record_id": 764,
+    "data": "  A clean dataset is a happy dataset.       @@@ "
+  },
+  {
+    "record_id": 765,
+    "data": "      Quality data leads to better performance.     @@@ "
+  },
+  {
+    "record_id": 766,
+    "data": "    Structured data facilitates efficient analysis.     "
+  },
+  {
+    "record_id": 767,
+    "data": "      The quick brown fox jumps over teh lazy dog.  ???"
+  },
+  {
+    "record_id": 768,
+    "data": "  artificial intelligence is transforming the world.     "
+  },
+  {
+    "record_id": 769,
+    "data": "      Python is a versatile programming language.    ..."
+  },
+  {
+    "record_id": 770,
+    "data": "Data cleaning is a crucial step in teh pipeline.???"
+  },
+  {
+    "record_id": 771,
+    "data": "The quick brown fox jumps over teh lazy dog. ### "
+  },
+  {
+    "record_id": 772,
+    "data": "    DATA CLEANING IS A CRUCIAL STEP IN THE PIPELINE.       ### "
+  },
+  {
+    "record_id": 773,
+    "data": "  fastapi makes building apis easy and fast.  ..."
+  },
+  {
+    "record_id": 774,
+    "data": "    FastAPI makes building APIs easy and fast.      "
+  },
+  {
+    "record_id": 775,
+    "data": "      Natural language processing is a field of AI.    "
+  },
+  {
+    "record_id": 776,
+    "data": "    The quick brown fox jumps over the lazy dog.    ???"
+  },
+  {
+    "record_id": 777,
+    "data": "    THE QUICK BROWN FOX JMPS OVER TEH LAZY DOG.     ### "
+  },
+  {
+    "record_id": 778,
+    "data": "MACHINE LEARNING MODELS REQUIRE CLEAN DATA.???"
+  },
+  {
+    "record_id": 779,
+    "data": "    Python is a versatile programming language.     "
+  },
+  {
+    "record_id": 780,
+    "data": "Artificial intelligence is transforming the world. "
+  },
+  {
+    "record_id": 781,
+    "data": "      Python is a versatile programming language.  ..."
+  },
+  {
+    "record_id": 782,
+    "data": "    NATURAL LANGUAGE PROCESSING IS A FIELD OF AI.      "
+  },
+  {
+    "record_id": 783,
+    "data": "Artificial intelligence is transforming the world.---"
+  },
+  {
+    "record_id": 784,
+    "data": "    artificial intelligence is transforming the world.      "
+  },
+  {
+    "record_id": 785,
+    "data": "Python is a versatile programming language. ### "
+  },
+  {
+    "record_id": 786,
+    "data": "Python is a versatile programming language."
+  },
+  {
+    "record_id": 787,
+    "data": "    Artificial intelligence is transforming the world.    ..."
+  },
+  {
+    "record_id": 788,
+    "data": "Machine learning models require clean data.   "
+  },
+  {
+    "record_id": 789,
+    "data": "Machine learning models require clean data. @@@ "
+  },
+  {
+    "record_id": 790,
+    "data": "A clean dataset is a happy dataset."
+  },
+  {
+    "record_id": 791,
+    "data": "  Artificial intelligence is transforming teh world.       "
+  },
+  {
+    "record_id": 792,
+    "data": "    structured data facilitates efficient analysis.   ### "
+  },
+  {
+    "record_id": 793,
+    "data": "  Artificial intelligence is transforming the world.  !!!"
+  },
+  {
+    "record_id": 794,
+    "data": "Natural langage processing is a field of AI.\n\n"
+  },
+  {
+    "record_id": 795,
+    "data": "  FastAPI makes building APIs easy and fast.      "
+  },
+  {
+    "record_id": 796,
+    "data": "  Artificial intelligence is transforming the world.  ..."
+  },
+  {
+    "record_id": 797,
+    "data": "      Quality data leads to better performance.         "
+  },
+  {
+    "record_id": 798,
+    "data": "  FastAPI makes building APIs easy and fast.       "
+  },
+  {
+    "record_id": 799,
+    "data": "THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG."
+  },
+  {
+    "record_id": 800,
+    "data": "    Data cleaning is a crucial step in the pipeline.  ---"
+  },
+  {
+    "record_id": 801,
+    "data": "Data cleaning is a crucial step in the pipeline.???"
+  },
+  {
+    "record_id": 802,
+    "data": "Machine learning models require clean data.???"
+  },
+  {
+    "record_id": 803,
+    "data": "Quality data leads to better performance."
+  },
+  {
+    "record_id": 804,
+    "data": "Python is a versatile programming language."
+  },
+  {
+    "record_id": 805,
+    "data": "      Structured data facilitates efficient analysis.  "
+  },
+  {
+    "record_id": 806,
+    "data": "  Artificial intelligence is transforming the world.         "
+  },
+  {
+    "record_id": 807,
+    "data": "Quality data leads to better performance. "
+  },
+  {
+    "record_id": 808,
+    "data": "Structured data facilitates efficient analysis. "
+  },
+  {
+    "record_id": 809,
+    "data": "  Machine learning models require clean data.    ---"
+  },
+  {
+    "record_id": 810,
+    "data": "    Quality data leads to better performance.    ..."
+  },
+  {
+    "record_id": 811,
+    "data": "A clean dataset is a happy dataset.\n\n"
+  },
+  {
+    "record_id": 812,
+    "data": "      A clean dataset is a happy dataset.    ???"
+  },
+  {
+    "record_id": 813,
+    "data": "      Quality data leads to better performance.      "
+  },
+  {
+    "record_id": 814,
+    "data": "  Structured data facilitates efficient analysis.    "
+  },
+  {
+    "record_id": 815,
+    "data": "Quality data leads to better performance. ### "
+  },
+  {
+    "record_id": 816,
+    "data": "    Data cleaning is a crucial step in the pipeline.  ???"
+  },
+  {
+    "record_id": 817,
+    "data": "Natural language processing is a field of AI...."
+  },
+  {
+    "record_id": 818,
+    "data": "  STRUCTURED DATA FACILITATES EFFICIENT ANALYSIS.    !!!"
+  },
+  {
+    "record_id": 819,
+    "data": "Machine learning models require clean data."
+  },
+  {
+    "record_id": 820,
+    "data": "Machine learning models require clean data."
+  },
+  {
+    "record_id": 821,
+    "data": "      A clean dataset is a happy dataset.  ???"
+  },
+  {
+    "record_id": 822,
+    "data": "The quick brown fox jumps over teh lazy dog."
+  },
+  {
+    "record_id": 823,
+    "data": "    Natural langage processing is a field of AI.  "
+  },
+  {
+    "record_id": 824,
+    "data": "    Python is a versatile programming langage.    "
+  },
+  {
+    "record_id": 825,
+    "data": "Quality data leads to better performance.\n\n"
+  },
+  {
+    "record_id": 826,
+    "data": "    Artificial intelligence is transforming the world.    "
+  },
+  {
+    "record_id": 827,
+    "data": "    Structured data facilitates efficient analysis.  "
+  },
+  {
+    "record_id": 828,
+    "data": "Natural language processing is a feild of AI...."
+  },
+  {
+    "record_id": 829,
+    "data": "Machine learning models require clean data. "
+  },
+  {
+    "record_id": 830,
+    "data": "    A clean dataset is a happy dataset.      ---"
+  },
+  {
+    "record_id": 831,
+    "data": "      STRUCTURED DATA FACILITATES EFFICIENT ANALYSIS.       "
+  },
+  {
+    "record_id": 832,
+    "data": "Structured data facilitates efficient analysis."
+  },
+  {
+    "record_id": 833,
+    "data": "      The quick brown fox jumps over the lazy dog.       "
+  },
+  {
+    "record_id": 834,
+    "data": "Quality data leads to better performance."
+  },
+  {
+    "record_id": 835,
+    "data": "  Quality data leads to better performance.         "
+  },
+  {
+    "record_id": 836,
+    "data": "      Structured data facilitates efficient analysis.       ### "
+  },
+  {
+    "record_id": 837,
+    "data": "    quality data leads to better performance.       "
+  },
+  {
+    "record_id": 838,
+    "data": "      Python is a versatile programming language.         "
+  },
+  {
+    "record_id": 839,
+    "data": "The quik brown fox jumps over the lazy dog."
+  },
+  {
+    "record_id": 840,
+    "data": "  Quality data leads to better performance.    ..."
+  },
+  {
+    "record_id": 841,
+    "data": "Artificial intelligence is transforming the world.???"
+  },
+  {
+    "record_id": 842,
+    "data": "  Quality data leads to better performance.    "
+  },
+  {
+    "record_id": 843,
+    "data": "  FastAPI makes building APIs easy and fast.  "
+  },
+  {
+    "record_id": 844,
+    "data": "  structured data facilitates efficient analysis.      "
+  },
+  {
+    "record_id": 845,
+    "data": "      Python is a versatile programming language.    ???"
+  },
+  {
+    "record_id": 846,
+    "data": "Artificial intelligence is transforming the world...."
+  },
+  {
+    "record_id": 847,
+    "data": "      Data cleaning is a crucial step in the pipeline.  ---"
+  },
+  {
+    "record_id": 848,
+    "data": "  The quick brown fox jumps over the lazy dog.       @@@ "
+  },
+  {
+    "record_id": 849,
+    "data": "    Quality data leads to better performance.      "
+  },
+  {
+    "record_id": 850,
+    "data": "Quality data leads to better performance."
+  },
+  {
+    "record_id": 851,
+    "data": "  Artificial intelligence is transforming the world.      "
+  },
+  {
+    "record_id": 852,
+    "data": "    Machine learning modles require clean data.     ### "
+  },
+  {
+    "record_id": 853,
+    "data": "  Natural language processing is a field of AI.      "
+  },
+  {
+    "record_id": 854,
+    "data": "  ARTIFICIAL INTELLIGENCE IS TRANSFORMING TEH WORLD.     "
+  },
+  {
+    "record_id": 855,
+    "data": "  Structured data facilitates efficient analysis.   @@@ "
+  },
+  {
+    "record_id": 856,
+    "data": "  quality data leads to better performance.  ---"
+  },
+  {
+    "record_id": 857,
+    "data": "    Artificial intelligence is transforming the world.  ---"
+  },
+  {
+    "record_id": 858,
+    "data": "  Artificial intelligence is transforming the world.     "
+  },
+  {
+    "record_id": 859,
+    "data": "    Quality data leads to better performance.      \n\n"
+  },
+  {
+    "record_id": 860,
+    "data": "Structured data facilitates efficient analysis.   "
+  },
+  {
+    "record_id": 861,
+    "data": "    Data cleaning is a crucial step in the pipeline.  "
+  },
+  {
+    "record_id": 862,
+    "data": "    Structured data facilitates efficient analysis.  "
+  },
+  {
+    "record_id": 863,
+    "data": "  Natural language processing is a feild of AI.  "
+  },
+  {
+    "record_id": 864,
+    "data": "Structured data facilitates efficient analysis.!!!"
+  },
+  {
+    "record_id": 865,
+    "data": "  A clean dataset is a happy dataset.      "
+  },
+  {
+    "record_id": 866,
+    "data": "ARTIFICIAL INTELLIGENCE IS TRANSFORMING THE WORLD. @@@ "
+  },
+  {
+    "record_id": 867,
+    "data": "    Quality data leads to better performance.      ???"
+  },
+  {
+    "record_id": 868,
+    "data": "      The quick brown fox jumps over teh lazy dog.      "
+  },
+  {
+    "record_id": 869,
+    "data": "  Data cleaning is a crucial step in the pipeline.      "
+  },
+  {
+    "record_id": 870,
+    "data": "  Python is a versatile programming language.    "
+  },
+  {
+    "record_id": 871,
+    "data": "      FastAPI makes building APIs easy and fast.      !!!"
+  },
+  {
+    "record_id": 872,
+    "data": "    Machine learning models require clean data.      "
+  },
+  {
+    "record_id": 873,
+    "data": "    fastapi makes building apis easy and fast.     "
+  },
+  {
+    "record_id": 874,
+    "data": "    Data cleaning is a crucial step in the pipeline.      "
+  },
+  {
+    "record_id": 875,
+    "data": "  Python is a versatile programming language.  "
+  },
+  {
+    "record_id": 876,
+    "data": "    Artificial intelligence is transforming teh world.       "
+  },
+  {
+    "record_id": 877,
+    "data": "    QUALITY DATA LEADS TO BETTER PERFORMANCE.      "
+  },
+  {
+    "record_id": 878,
+    "data": "      Natural language processing is a feild of AI.    \n\n"
+  },
+  {
+    "record_id": 879,
+    "data": "FastAPI makes building APIs easy and fast."
+  },
+  {
+    "record_id": 880,
+    "data": "Quality data leads to better performance."
+  },
+  {
+    "record_id": 881,
+    "data": "      Data cleaning is a crucial step in the pipeline.      ..."
+  },
+  {
+    "record_id": 882,
+    "data": "FASTAPI MAKES BUILDING APIS EASY AND FAST. ### "
+  },
+  {
+    "record_id": 883,
+    "data": "    Data cleaning is a crucial step in the pipeline.     ### "
+  },
+  {
+    "record_id": 884,
+    "data": "    NATURAL LANGUAGE PROCESSING IS A FIELD OF AI.    !!!"
+  },
+  {
+    "record_id": 885,
+    "data": "    FastAPI makes building APIs easy and fast.  "
+  },
+  {
+    "record_id": 886,
+    "data": "  Artificial intelligence is transforming the world.    "
+  },
+  {
+    "record_id": 887,
+    "data": "    Quality data leads to better performance.  ---"
+  },
+  {
+    "record_id": 888,
+    "data": "  Artificial intelligence is transforming the world.    "
+  },
+  {
+    "record_id": 889,
+    "data": "  DATA CLEANING IS A CRUCIAL STEP IN THE PIPELINE.      "
+  },
+  {
+    "record_id": 890,
+    "data": "  DATA CLEANING IS A CRUCIAL STEP IN THE PIPELINE.  "
+  },
+  {
+    "record_id": 891,
+    "data": "    STRUCTURED DATA FACILITATES EFFICIENT ANALYSIS.    "
+  },
+  {
+    "record_id": 892,
+    "data": "  DATA CLEANING IS A CRUCIAL STEP IN THE PIPELINE.      "
+  },
+  {
+    "record_id": 893,
+    "data": "    ARTIFICIAL INTELLIGENCE IS TRANSFORMING THE WORLD.    ---"
+  },
+  {
+    "record_id": 894,
+    "data": "FASTAPI MAKES BUILDING APIS EASY AND FAST.???"
+  },
+  {
+    "record_id": 895,
+    "data": "  Machine learning models require clean data.  "
+  },
+  {
+    "record_id": 896,
+    "data": "machine learning models require clean data."
+  },
+  {
+    "record_id": 897,
+    "data": "FastAPI makes building APIs easy and fast.!!!"
+  },
+  {
+    "record_id": 898,
+    "data": "  Artificial intelligence is transforming the world.    ..."
+  },
+  {
+    "record_id": 899,
+    "data": "  Machine learning models require clean data.  ???"
+  },
+  {
+    "record_id": 900,
+    "data": "A clean dataset is a happy dataset."
+  },
+  {
+    "record_id": 901,
+    "data": "Quality data leads to better performance.\n\n"
+  },
+  {
+    "record_id": 902,
+    "data": "    a clean dataset is a happy dataset.    "
+  },
+  {
+    "record_id": 903,
+    "data": "  A clean dataset is a happy dataset.       "
+  },
+  {
+    "record_id": 904,
+    "data": "      Machine learning models require clean data.      ???"
+  },
+  {
+    "record_id": 905,
+    "data": "      Data cleaning is a crucial step in the pipeline.  "
+  },
+  {
+    "record_id": 906,
+    "data": "Python is a versatile programming langage. "
+  },
+  {
+    "record_id": 907,
+    "data": "    Machine learning modles require clean data.      "
+  },
+  {
+    "record_id": 908,
+    "data": "      A clean dataset is a happy dataset.      "
+  },
+  {
+    "record_id": 909,
+    "data": "  Natural language processing is a field of AI.      ???"
+  },
+  {
+    "record_id": 910,
+    "data": "    The quick brown fox jumps over the lazy dog.    ???"
+  },
+  {
+    "record_id": 911,
+    "data": "The quick brown fox jumps over the lazy dog. "
+  },
+  {
+    "record_id": 912,
+    "data": "      Python is a versatile programming language.         "
+  },
+  {
+    "record_id": 913,
+    "data": "Machine learning models require clean data."
+  },
+  {
+    "record_id": 914,
+    "data": "      DATA CLEANING IS A CRUCIAL STEP IN THE PIPELINE.       "
+  },
+  {
+    "record_id": 915,
+    "data": "  Natural language processing is a field of AI.      "
+  },
+  {
+    "record_id": 916,
+    "data": "    Artificial intelligence is transforming teh world.   "
+  },
+  {
+    "record_id": 917,
+    "data": "      FastAPI makes building APIs easy and fast.    "
+  },
+  {
+    "record_id": 918,
+    "data": "    Structured data facilitates efficient analysis.      ..."
+  },
+  {
+    "record_id": 919,
+    "data": "FastAPI makes building APIs easy and fast."
+  },
+  {
+    "record_id": 920,
+    "data": "  Machine learning modles require clean data.   "
+  },
+  {
+    "record_id": 921,
+    "data": "Python is a versatile programming language. ### "
+  },
+  {
+    "record_id": 922,
+    "data": "The quik brown fox jumps over teh lazy dog."
+  },
+  {
+    "record_id": 923,
+    "data": "    Machine learning models require clean data.         "
+  },
+  {
+    "record_id": 924,
+    "data": "    THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.     "
+  },
+  {
+    "record_id": 925,
+    "data": "Quality data leads to better performance."
+  },
+  {
+    "record_id": 926,
+    "data": "  Machine learning models require clean data.       ### "
+  },
+  {
+    "record_id": 927,
+    "data": "  Natural langage processing is a field of AI.  ???"
+  },
+  {
+    "record_id": 928,
+    "data": "      Natural language processing is a field of AI.      "
+  },
+  {
+    "record_id": 929,
+    "data": "DATA CLEANING IS A CRUCIAL STEP IN THE PIPELINE."
+  },
+  {
+    "record_id": 930,
+    "data": "  FastAPI makes building APIs easy and fast.    ---"
+  },
+  {
+    "record_id": 931,
+    "data": "    Artificial intelligence is transforming the world.     ### "
+  },
+  {
+    "record_id": 932,
+    "data": "    Data cleaning is a crucial step in the pipeline.  "
+  },
+  {
+    "record_id": 933,
+    "data": "  The quick brown fox jumps over teh lazy dog.      "
+  },
+  {
+    "record_id": 934,
+    "data": "  Quality data leads to better performance.    "
+  },
+  {
+    "record_id": 935,
+    "data": "Python is a versatile programming language."
+  },
+  {
+    "record_id": 936,
+    "data": "  Machine learning models require clean data.    "
+  },
+  {
+    "record_id": 937,
+    "data": "      Data cleaning is a crucial step in teh pipeline.  ???"
+  },
+  {
+    "record_id": 938,
+    "data": "  Natural langage processing is a field of AI.  !!!"
+  },
+  {
+    "record_id": 939,
+    "data": "  fastapi makes building apis easy and fast.     "
+  },
+  {
+    "record_id": 940,
+    "data": "    ARTIFICIAL INTELLIGENCE IS TRANSFORMING THE WORLD.      "
+  },
+  {
+    "record_id": 941,
+    "data": "structured data facilitates efficient analysis.???"
+  },
+  {
+    "record_id": 942,
+    "data": "  Python is a versatile programming language.  "
+  },
+  {
+    "record_id": 943,
+    "data": "      Machine learning models require clean data.    "
+  },
+  {
+    "record_id": 944,
+    "data": "      Python is a versatile programming language.      "
+  },
+  {
+    "record_id": 945,
+    "data": "Data cleaning is a crucial step in the pipeline.   "
+  },
+  {
+    "record_id": 946,
+    "data": "Natural langage processing is a field of AI.!!!"
+  },
+  {
+    "record_id": 947,
+    "data": "      A clean dataset is a happy dataset.     "
+  },
+  {
+    "record_id": 948,
+    "data": "machine learning modles require clean data. "
+  },
+  {
+    "record_id": 949,
+    "data": "    Artificial intelligence is transforming the world.     ### "
+  },
+  {
+    "record_id": 950,
+    "data": "      Artificial intelligence is transforming the world.    ..."
+  },
+  {
+    "record_id": 951,
+    "data": "Quality data leads to better performance."
+  },
+  {
+    "record_id": 952,
+    "data": "    Natural language processing is a field of AI.      "
+  },
+  {
+    "record_id": 953,
+    "data": "      structured data facilitates efficient analysis.  "
+  },
+  {
+    "record_id": 954,
+    "data": "  A clean dataset is a happy dataset.      !!!"
+  },
+  {
+    "record_id": 955,
+    "data": "FastAPI makes building APIs easy and fast.\n\n"
+  },
+  {
+    "record_id": 956,
+    "data": "    Python is a versatile programming language.    "
+  },
+  {
+    "record_id": 957,
+    "data": "Artificial intelligence is transforming the world.???"
+  },
+  {
+    "record_id": 958,
+    "data": "Quality data leads to better performance.   "
+  },
+  {
+    "record_id": 959,
+    "data": "Python is a versatile programming language."
+  },
+  {
+    "record_id": 960,
+    "data": "  Structured data facilitates efficient analysis.       "
+  },
+  {
+    "record_id": 961,
+    "data": "Python is a versatile programming language.!!!"
+  },
+  {
+    "record_id": 962,
+    "data": "      python is a versatile programming langage.  "
+  },
+  {
+    "record_id": 963,
+    "data": "Structured data facilitates efficient analysis. @@@ "
+  },
+  {
+    "record_id": 964,
+    "data": "      Machine learning models require clean data.       "
+  },
+  {
+    "record_id": 965,
+    "data": "    Machine learning modles require clean data.      "
+  },
+  {
+    "record_id": 966,
+    "data": "    quality data leads to better performance.    ---"
+  },
+  {
+    "record_id": 967,
+    "data": "STRUCTURED DATA FACILITATES EFFICIENT ANALYSIS."
+  },
+  {
+    "record_id": 968,
+    "data": "  Structured data facilitates efficient analysis.      "
+  },
+  {
+    "record_id": 969,
+    "data": "fastapi makes building apis easy and fast."
+  },
+  {
+    "record_id": 970,
+    "data": "    FASTAPI MAKES BUILDING APIS EASY AND FAST.      "
+  },
+  {
+    "record_id": 971,
+    "data": "      data cleaning is a crucial step in the pipeline.     ### "
+  },
+  {
+    "record_id": 972,
+    "data": "      A CLEAN DATASET IS A HAPPY DATASET.      "
+  },
+  {
+    "record_id": 973,
+    "data": "Machine learning models require clean data.!!!"
+  },
+  {
+    "record_id": 974,
+    "data": "      A clean dataset is a happy dataset.  "
+  },
+  {
+    "record_id": 975,
+    "data": "  FastAPI makes building APIs easy and fast.    ???"
+  },
+  {
+    "record_id": 976,
+    "data": "Natural language processing is a field of AI."
+  },
+  {
+    "record_id": 977,
+    "data": "      FastAPI makes building APIs easy and fast.      "
+  },
+  {
+    "record_id": 978,
+    "data": "Quality data leads to better performance."
+  },
+  {
+    "record_id": 979,
+    "data": "    Data cleaning is a crucial step in the pipeline.    ???"
+  },
+  {
+    "record_id": 980,
+    "data": "      Python is a versatile programming langage.     ### "
+  },
+  {
+    "record_id": 981,
+    "data": "  Artificial intelligence is transforming teh world.    ---"
+  },
+  {
+    "record_id": 982,
+    "data": "Structured data facilitates efficient analysis.\n\n"
+  },
+  {
+    "record_id": 983,
+    "data": "A clean dataset is a happy dataset."
+  },
+  {
+    "record_id": 984,
+    "data": "      Natural language processing is a field of AI.      \n\n"
+  },
+  {
+    "record_id": 985,
+    "data": "    the quick brown fox jmps over the lazy dog.  "
+  },
+  {
+    "record_id": 986,
+    "data": "      Natural langage processing is a feild of AI.    "
+  },
+  {
+    "record_id": 987,
+    "data": "      A clean dataset is a happy dataset.      "
+  },
+  {
+    "record_id": 988,
+    "data": "      Quality data leads to better performance.  "
+  },
+  {
+    "record_id": 989,
+    "data": "  The quick brown fox jumps over the lazy dog.   ### "
+  },
+  {
+    "record_id": 990,
+    "data": "  Python is a versatile programming language.    !!!"
+  },
+  {
+    "record_id": 991,
+    "data": "  The quick brown fox jumps over teh lazy dog.     ### "
+  },
+  {
+    "record_id": 992,
+    "data": "      A clean dataset is a happy dataset.      "
+  },
+  {
+    "record_id": 993,
+    "data": "A clean dataset is a happy dataset.???"
+  },
+  {
+    "record_id": 994,
+    "data": "The quick brown fox jumps over the lazy dog...."
+  },
+  {
+    "record_id": 995,
+    "data": "      Data cleaning is a crucial step in the pipeline.     "
+  },
+  {
+    "record_id": 996,
+    "data": "      A CLEAN DATASET IS A HAPPY DATASET.      "
+  },
+  {
+    "record_id": 997,
+    "data": "FastAPI makes building APIs easy and fast.   "
+  },
+  {
+    "record_id": 998,
+    "data": "  Natural language processing is a field of AI.  ..."
+  },
+  {
+    "record_id": 999,
+    "data": "      A clean dataset is a happy dataset.       ### "
+  }
+]

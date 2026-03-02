@@ -3,7 +3,7 @@ from typing import Dict, Any, Type, Optional, AsyncGenerator, Tuple, List
 
 import aiofiles
 
-from utils.json_structurer import (
+from filters.json_structurer import (
     Token,
     Line,
     stream_json_as_tokens,

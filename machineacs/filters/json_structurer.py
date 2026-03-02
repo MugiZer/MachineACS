@@ -8,105 +8,13 @@ import ijson
 
 from config.registry import apply_filters
 from utils.logger import logger
+from adapters.canonicalizer import Canonicalizer
+from filters.schema_coercer import coerce_schema
+from filters.tokens import (
+    Token, Line, StructuralToken, StringValueToken, KeyToken,
+    NumberToken, BoolNullToken, NewlineToken, HashToken, RuleToken
+)
 
-from adapters.canonicalizer import Canonicalizer 
-
-
-class Token:
-    """Base token class for polymorphic processing."""
-
-    def __init__(self, content: Any) -> None:
-        self.content = content
-
-    def clean(self, config: Dict[str, Any]) -> Any:
-        """Apply filters to the token content."""
-        return apply_filters(self.content, config)
-
-    def serialize(self, cleaned: Any) -> str:
-        """Serialize the cleaned content to string."""
-        return str(cleaned)
-
-    def process(self, config: Dict[str, Any]) -> str:
-        """Clean and serialize the token."""
-        return self.serialize(self.clean(config))
-
-
-class Line(Token):
-    """Token representing a line of text."""
-
-    def serialize(self, cleaned: str) -> str:
-        return cleaned + "\n"
-
-
-class StructuralToken(Token):
-    """Token for JSON structural characters (braces, brackets, commas)."""
-
-    def clean(self, config: Dict[str, Any]) -> str:
-        return str(self.content)
-
-    def serialize(self, cleaned: str) -> str:
-        return cleaned
-
-
-class StringValueToken(Token):
-    """Token for JSON string values."""
-
-    def serialize(self, cleaned: str) -> str:
-        return json.dumps(cleaned, ensure_ascii=False)
-
-
-class KeyToken(Token):
-    """Token for JSON object keys."""
-
-    def serialize(self, cleaned: str) -> str:
-        return json.dumps(cleaned, ensure_ascii=False) + ":"
-
-
-class NumberToken(Token):
-    """Token for JSON number values."""
-
-    def clean(self, config: Dict[str, Any]) -> Union[Decimal, int, float]:
-        return self.content
-
-    def serialize(self, cleaned: Union[Decimal, int, float]) -> str:
-        if isinstance(cleaned, Decimal):
-            return str(cleaned)
-        return json.dumps(cleaned)
-
-
-class BoolNullToken(Token):
-    """Token for JSON boolean and null values."""
-
-    def clean(self, config: Dict[str, Any]) -> Any:
-        return self.content
-
-    def serialize(self, cleaned: Any) -> str:
-        return json.dumps(cleaned)
-
-
-class NewlineToken(Token):
-    """Token representing a newline character."""
-
-    def __init__(self) -> None:
-        super().__init__("\n")
-
-    def clean(self, config: Dict[str, Any]) -> str:
-        return str(self.content)
-
-    def serialize(self, cleaned: str) -> str:
-        return cleaned
-
-class HashToken(Token):
-    #token to represent the before_hash so it can get processed distinctly from the other tokens, it needs to come out exactly as it came in 
-    def __init__(self, content: str) -> None:
-        super().__init__(content)
-
-    def clean(self, config: Dict[str, Any]) -> str:
-        return self.content
-    
-    def serialize(self, cleaned: str) -> str:
-        return cleaned
-        
 
 async def stream_json_as_tokens(
     file_path: Union[str, Path]
@@ -131,10 +39,14 @@ async def stream_json_as_tokens(
                     yield StructuralToken(",")
                 first = False
 
-                hash_val = Canonicalizer.canonicalize(item)
-                yield HashToken(hash_val)
+                dict_hash_val = Canonicalizer.canonicalize(item)
+                yield HashToken(dict_hash_val)
 
-                for token in _traverse_obj(item):
+                # Feed the raw tokens from traverse_obj through our new schema coercer pipeline
+                raw_tokens = _traverse_obj(item)
+                coerced_tokens = coerce_schema(raw_tokens)
+                
+                for token in coerced_tokens:
                     yield token
             
             yield StructuralToken("]")
@@ -165,11 +77,13 @@ async def stream_jsonl_as_tokens(
 
             try:
                 data = json.loads(line)
-                #hash the json object
-                hash = Canonicalizer.canonicalize(data)
-                yield HashToken(hash)
+                hash_val = Canonicalizer.canonicalize(data)
+                yield HashToken(hash_val)
 
-                for token in _traverse_obj(data):
+                raw_tokens = _traverse_obj(data)
+                coerced_tokens = coerce_schema(raw_tokens)
+                
+                for token in coerced_tokens:
                     yield token
 
                 yield NewlineToken()
@@ -211,5 +125,5 @@ def _traverse_obj(obj: Any) -> Generator[Token, None, None]:
         yield StringValueToken(obj)
     elif isinstance(obj, bool) or obj is None:
         yield BoolNullToken(obj)
-    elif isinstance(obj, (int, float)):
+    elif isinstance(obj, (int, float, Decimal)):
         yield NumberToken(obj)

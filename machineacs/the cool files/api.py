@@ -11,6 +11,7 @@ from utils.io import populate
 import uuid 
 from datetime import datetime
 from database import start_session, close_session, populate_db, get_job_by_status, get_matching_job, cn, cr
+from adapters.canonicalizer import Canonicalizer
 
 app = FastAPI(
     title="MachineACS API",
@@ -89,6 +90,7 @@ async def clean_files(filtres: List[str] = Query(...), files: List[UploadFile] =
         results.append(entry)
 
     this_job_id = str(uuid.uuid4())
+    final_config["job_id"] = this_job_id
     
     # Initialize job history
     populate_db(this_job_id, "pending", datetime.now().strftime("%Y-%m-%d %H:%M:%S"), f"Job created, processing {len(results)} files")

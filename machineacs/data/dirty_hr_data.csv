@@ -1,0 +1,201 @@
+employee_id,full_name,age,salary,job_title,city,country,email,is_active,department
+1088,Joseph Johnson,43,131587.57,Data Analyst,Sydney,Unknown,joseph.johnson@company.com,True,Finance
+1057,Michael Miller,32,121172.61,DevOps Engineer,,Unknown,michael.miller@company.com,True,Finance
+1151,William Davis,52,92377.75,Software Engineer,Paris,Unknown,william.davis@company.com,True,Finance
+1081,Daniel Johnson,29,139598.98,DevOps Engineer,Montréal,Unknown,daniel.johnson@company.com,False,Engineering
+1087,Christopher Martinez,36,114354.01,DevOps Engineer,Paris,Unknown,christopher.martinez@company.com,False,Marketing
+1133,William Martin,36,97720.48,HR Manager,Toronto,Unknown,william.martin@company.com,True,Customer Service
+1071,Maria Johnson,27,77597.55,Customer Support Specialist,New York,Unknown,maria.johnson@company.com,False,Human Resources
+1150,John Williams,26,109258.58,Sales Associate,,Unknown,john.williams@company.com,True,Sales
+1050,David Sanchez,55,124778.71,Frontend Developer,Sao Paulo,Unknown,david.sanchez@company.com,0,Engineering
+1123,Chloe Lopez,47,101193.06,Product Manager,Tokyo,Unknown,chloe.lopez@company.com,1,Engineering
+1115,Michael Davis,45,103334.11,Sales Associate,London,Unknown,michael.davis@company.com,False,
+1028,Thomas Lopez,63,132103.29,Sales Associate,London,Unknown,thomas.lopez@company.com,True,Finance
+1124,Héctor Johnson,38,141433.72,Software Engineer,Zurich,Unknown,héctor.johnson@company.com,True,Operations
+1146,Anna Johnson,25,107695.75,Data Analyst,Montreal,Unknown,anna.johnson@company.com,True,Product
+1004,Héctor Hernandez,49,52748.34,DevOps Engineer,Montréal,Unknown,héctor.hernandez@company.com,True,Operations
+1027,Héctor Brown,52,67972.36,HR Manager,Zurich,Unknown,héctor.brown@company.com,True,Finance
+1084,Héctor Jones,24,132726.99,DevOps Engineer,,Unknown,héctor.jones@company.com,True,Sales
+1156,Sofia Martin,43,136388.26,Sales Associate,,Unknown,sofia.martin@company.com,True,Operations
+1045,Anna Perez,54,66670.32,DevOps Engineer,,Unknown,anna.perez@company.com,True,Customer Service
+1000,Christopher Gonzalez,57,134757.4,Product Manager,Berlin,Unknown,christopher.gonzalez@company.com,True,Product
+1161,Daniel Miller,39,76107.53,Sales Associate,,Unknown,daniel.miller@company.com,1,
+1010,David Jones,30,62221.35,Sales Associate,,Unknown,david.jones@company.com,True,Product
+1015,Chloe Williams,47,55230.1,Product Manager,Zurich,Unknown,chloe.williams@company.com,True,Human Resources
+1128,Daniel Hernandez,25,60888.72,Data Analyst,New York,Unknown,daniel.hernandez@company.com,True,Marketing
+1046,Zoé Martin,65,105899.87,Software Engineer,,Unknown,zoé.martin@company.com,true,Operations
+1013,Isabella Brown,44,138882.06,Customer Support Specialist,Sydney,Unknown,isabella.brown@company.com,True,Marketing
+1061,Joseph Jones,54,106618.65,Backend Engineer,,Unknown,joseph.jones@company.com,False,Finance
+1066,William Hernandez,29,141628.37,HR Manager,,Unknown,william.hernandez@company.com,True,Engineering
+1139,James Martin,31,66128.79,Marketing Director,Montreal,Unknown,james.martin@company.com,False,Operations
+1022,Anthony Martin,51,115038.18,Marketing Director,Berlin,Unknown,anthony.martin@company.com,true,
+1124,Héctor Johnson,38,141433.72,Software Engineer,Zurich,Unknown,héctor.johnson@company.com,1,
+1022,Anthony Martin,51,115038.18,Marketing Director,Berlin,Unknown,anthony.martin@company.com,True,
+1077,Robert Martinez,46,107466.55,Software Engineer,Berlin,Unknown,robert.martinez@company.com,True,Finance
+1131,Matthew Lopez,39,140160.99,DevOps Engineer,Tokyo,Unknown,matthew.lopez@company.com,true,Engineering
+1143,Joseph Davis,49,134731.74,Frontend Developer,Zurich,Unknown,joseph.davis@company.com,True,Product
+1017,Isabella Martin,52,117006.37,Data Analyst,,Unknown,isabella.martin@company.com,True,
+1113,Anthony Davis,27,131062.41,Software Engineer,Sao Paulo,Unknown,anthony.davis@company.com,true,Engineering
+1147,Chloe Martin,50,69054.65,Product Manager,Zürich,Unknown,chloe.martin@company.com,True,Marketing
+1078,Mia Smith,35,109049.44,Software Engineer,Sao Paulo,Unknown,mia.smith@company.com,True,Operations
+1111,Maria Martin,47,70615.28,Sales Associate,Toronto,Unknown,maria.martin@company.com,false,Customer Service
+1091,Héctor Gonzalez,50,97446.09,Backend Engineer,London,Unknown,héctor.gonzalez@company.com,False,Operations
+1012,Isabella Johnson,44,145139.24,Customer Support Specialist,São Paulo,Unknown,isabella.johnson@company.com,True,Engineering
+1123,Chloe Lopez,47,101193.06,Product Manager,,Unknown,chloe.lopez@company.com,True,Engineering
+1029,Daniel Smith,55,67563.55,Data Analyst,Montréal,Unknown,daniel.smith@company.com,True,Product
+1001,Lucia Martin,55,120800.21,Data Analyst,Paris,Unknown,lucia.martin@company.com,True,Finance
+1031,Michael Johnson,29,111124.82,Data Analyst,Zürich,Unknown,michael.johnson@company.com,True,Human Resources
+1059,William Brown,60,74037.33,DevOps Engineer,Toronto,Unknown,william.brown@company.com,True,Customer Service
+1132,William Brown,31,127579.76,Data Analyst,São Paulo,Unknown,william.brown@company.com,False,Customer Service
+1096,Lucia Johnson,54,69704.75,HR Manager,São Paulo,Unknown,lucia.johnson@company.com,True,Product
+1103,Camila Martin,33,96296.6,Sales Associate,Montreal,Unknown,camila.martin@company.com,True,Human Resources
+1035,Daniel Jones,29,108931.43,Marketing Director,Sao Paulo,Unknown,daniel.jones@company.com,True,Human Resources
+1109,André Perez,49,144229.8,Product Manager,,Unknown,andré.perez@company.com,True,Product
+1163,Maria Perez,50,104028.28,Marketing Director,,Unknown,maria.perez@company.com,false,
+1101,Anna Hernandez,47,103451.26,Software Engineer,Zürich,Unknown,anna.hernandez@company.com,true,Engineering
+1164,Maria Rodriguez,60,108550.41,Data Analyst,Zürich,Unknown,maria.rodriguez@company.com,True,Operations
+1097,Elena Gonzalez,61,58084.56,DevOps Engineer,Berlin,Unknown,elena.gonzalez@company.com,False,Customer Service
+1076,Anthony Martin,25,91843.37,DevOps Engineer,Berlin,Unknown,anthony.martin@company.com,True,Engineering
+1122,David Johnson,26,109168.09,Data Analyst,New York,Unknown,david.johnson@company.com,True,Marketing
+1155,John Garcia,56,131369.49,HR Manager,Zurich,Unknown,john.garcia@company.com,True,
+1047,Robert Perez,52,50365.91,Marketing Director,Sydney,Unknown,robert.perez@company.com,True,Marketing
+1053,John Martin,65,85076.65,Sales Associate,London,Unknown,john.martin@company.com,True,Marketing
+1083,Héctor Brown,41,143215.64,Customer Support Specialist,Zürich,Unknown,héctor.brown@company.com,False,Customer Service
+1052,Matthew Davis,36,75053.15,Data Analyst,Sao Paulo,Unknown,matthew.davis@company.com,0,Marketing
+1041,Lucia Martinez,33,116215.11,HR Manager,Montréal,Unknown,lucia.martinez@company.com,True,Human Resources
+1085,William Smith,39,145461.18,Product Manager,Zurich,Unknown,william.smith@company.com,True,Product
+1166,Sofia Davis,63,140062.0,Customer Support Specialist,Zurich,Unknown,sofia.davis@company.com,True,Marketing
+1095,Anthony Martin,41,123670.49,Customer Support Specialist,Berlin,Unknown,anthony.martin@company.com,1,Marketing
+1141,Camila Jones,33,137427.63,Product Manager,Zurich,Unknown,camila.jones@company.com,1,Customer Service
+1135,Chloe Johnson,50,119802.73,Data Analyst,São Paulo,Unknown,chloe.johnson@company.com,True,Customer Service
+1142,Camila Rodriguez,23,137620.21,HR Manager,London,Unknown,camila.rodriguez@company.com,True,Marketing
+1105,Elena Smith,27,85457.23,Sales Associate,,Unknown,elena.smith@company.com,True,Sales
+1112,Maria Smith,28,67318.23,Marketing Director,Zürich,Unknown,maria.smith@company.com,True,Sales
+1044,David Gonzalez,27,115683.48,Marketing Director,Toronto,Unknown,david.gonzalez@company.com,True,Customer Service
+1024,Anthony Jones,32,125003.43,Customer Support Specialist,New York,Unknown,anthony.jones@company.com,1,Product
+1130,John Jones,43,133057.87,Customer Support Specialist,Berlin,Unknown,john.jones@company.com,true,Marketing
+1080,Lucia Johnson,35,141604.4,Customer Support Specialist,Toronto,Unknown,lucia.johnson@company.com,True,
+1138,Zoé Brown,49,79274.02,DevOps Engineer,Paris,Unknown,zoé.brown@company.com,0,Operations
+1021,Anna Rodriguez,28,116949.38,Software Engineer,Zürich,Unknown,anna.rodriguez@company.com,False,Marketing
+1067,Chloe Williams,44,100136.13,Marketing Director,,Unknown,chloe.williams@company.com,0,Marketing
+1086,Elena Gonzalez,29,123596.56,Customer Support Specialist,Montréal,Unknown,elena.gonzalez@company.com,0,
+1048,Camila Martin,46,119587.89,HR Manager,New York,Unknown,camila.martin@company.com,true,Finance
+1169,Zoé Rodriguez,44,78652.7,Backend Engineer,Paris,Unknown,zoé.rodriguez@company.com,1,Product
+1129,Sofia Hernandez,51,125747.78,Data Analyst,London,Unknown,sofia.hernandez@company.com,True,Product
+1006,Mia Martin,52,142376.1,HR Manager,,Unknown,mia.martin@company.com,False,Human Resources
+1153,Anna Sanchez,45,63878.73,DevOps Engineer,Sao Paulo,Unknown,anna.sanchez@company.com,false,
+1065,John Martinez,50,58086.66,Backend Engineer,,Unknown,john.martinez@company.com,True,Sales
+1054,John Lopez,59,95174.19,Product Manager,,Unknown,john.lopez@company.com,false,Operations
+1003,Lucia Gonzalez,35,149421.78,Customer Support Specialist,Tokyo,Unknown,lucia.gonzalez@company.com,False,
+1060,Anna Perez,59,69675.95,DevOps Engineer,,Unknown,anna.perez@company.com,0,Product
+1064,Lucia Martin,28,142313.52,Customer Support Specialist,,Unknown,lucia.martin@company.com,True,Operations
+1058,John Rodriguez,54,143791.96,Marketing Director,,Unknown,john.rodriguez@company.com,True,Operations
+1114,Thomas Perez,24,89345.87,HR Manager,Zurich,Unknown,thomas.perez@company.com,True,Human Resources
+1065,John Martinez,50,58086.66,Backend Engineer,Sao Paulo,Unknown,john.martinez@company.com,true,Sales
+1154,Christopher Smith,43,93019.32,Customer Support Specialist,,Unknown,christopher.smith@company.com,true,Engineering
+1148,Matthew Lopez,30,77724.35,Frontend Developer,Toronto,Unknown,matthew.lopez@company.com,False,
+1068,Lucia Martinez,53,101448.23,Product Manager,São Paulo,Unknown,lucia.martinez@company.com,False,Human Resources
+1160,Zoé Miller,62,94186.02,HR Manager,Zürich,Unknown,zoé.miller@company.com,False,Engineering
+1121,Maria Sanchez,54,69691.97,Software Engineer,Berlin,Unknown,maria.sanchez@company.com,True,
+1040,André Martin,53,58496.24,Marketing Director,Montréal,Unknown,andré.martin@company.com,True,Customer Service
+1085,William Smith,39,145461.18,Product Manager,Zurich,Unknown,william.smith@company.com,1,Product
+1092,Maria Perez,51,90404.19,Sales Associate,Sao Paulo,Unknown,maria.perez@company.com,True,Human Resources
+1023,Thomas Perez,44,63549.7,DevOps Engineer,,Unknown,thomas.perez@company.com,True,
+1120,André Johnson,44,142073.25,Marketing Director,Tokyo,Unknown,andré.johnson@company.com,True,Finance
+1020,Chloe Jones,32,133281.03,DevOps Engineer,New York,Unknown,chloe.jones@company.com,True,
+1063,Robert Jones,63,132782.67,Backend Engineer,Paris,Unknown,robert.jones@company.com,False,Product
+1094,Joseph Johnson,63,127480.12,Data Analyst,Paris,Unknown,joseph.johnson@company.com,True,Engineering
+1072,Anna Brown,42,72568.83,Frontend Developer,Zurich,Unknown,anna.brown@company.com,True,Sales
+1062,Joseph Williams,51,88487.05,HR Manager,Zürich,Unknown,joseph.williams@company.com,1,Sales
+1144,John Perez,50,120685.39,Data Analyst,Toronto,Unknown,john.perez@company.com,False,
+1009,Elena Davis,53,89055.36,Product Manager,Zürich,Unknown,elena.davis@company.com,True,Marketing
+1002,John Miller,52,128912.57,Product Manager,Toronto,Unknown,john.miller@company.com,True,Marketing
+1026,Robert Garcia,44,62018.1,Data Analyst,,Unknown,robert.garcia@company.com,True,Operations
+1130,John Jones,43,133057.87,Customer Support Specialist,Berlin,Unknown,john.jones@company.com,True,Marketing
+1008,Robert Johnson,52,117017.39,DevOps Engineer,Zürich,Unknown,robert.johnson@company.com,True,Product
+1019,Thomas Gonzalez,35,121002.84,Product Manager,,Unknown,thomas.gonzalez@company.com,False,Engineering
+1030,Daniel Lopez,30,139225.84,Software Engineer,Tokyo,Unknown,daniel.lopez@company.com,false,Finance
+1157,André Lopez,22,122422.37,Sales Associate,,Unknown,andré.lopez@company.com,False,Sales
+1125,Joseph Sanchez,24,118008.28,Sales Associate,,Unknown,joseph.sanchez@company.com,True,Sales
+1120,André Johnson,44,142073.25,Marketing Director,Tokyo,Unknown,andré.johnson@company.com,true,Finance
+1133,William Martin,36,97720.48,HR Manager,Toronto,Unknown,william.martin@company.com,1,
+1051,Maria Brown,46,112646.58,Customer Support Specialist,Toronto,Unknown,maria.brown@company.com,True,
+1082,Anthony Lopez,63,126478.2,Data Analyst,,Unknown,anthony.lopez@company.com,True,
+1032,Robert Garcia,61,121675.16,Data Analyst,Paris,Unknown,robert.garcia@company.com,True,Product
+1140,Anna Brown,53,125874.88,Sales Associate,New York,Unknown,anna.brown@company.com,True,Customer Service
+1049,David Sanchez,29,112731.43,Sales Associate,London,Unknown,david.sanchez@company.com,True,Sales
+1102,Sofia Johnson,60,90346.37,Customer Support Specialist,Berlin,Unknown,sofia.johnson@company.com,False,Customer Service
+1134,Camila Martinez,39,55034.75,DevOps Engineer,Montréal,Unknown,camila.martinez@company.com,True,Operations
+1055,Joseph Perez,50,69323.9,Software Engineer,Paris,Unknown,joseph.perez@company.com,true,Product
+1117,Anna Williams,63,81997.63,Customer Support Specialist,Montreal,Unknown,anna.williams@company.com,False,Finance
+1145,Isabella Sanchez,34,91572.73,DevOps Engineer,São Paulo,Unknown,isabella.sanchez@company.com,True,Sales
+1038,Chloe Williams,64,50830.59,Backend Engineer,Sao Paulo,Unknown,chloe.williams@company.com,True,
+1042,William Hernandez,64,62574.3,Customer Support Specialist,Berlin,Unknown,william.hernandez@company.com,True,
+1106,David Miller,48,82885.95,Marketing Director,Zurich,Unknown,david.miller@company.com,True,
+1075,André Jones,31,52346.41,HR Manager,New York,Unknown,andré.jones@company.com,true,
+1003,Lucia Gonzalez,35,149421.78,Customer Support Specialist,,Unknown,lucia.gonzalez@company.com,0,Sales
+1017,Isabella Martin,52,117006.37,Data Analyst,,Unknown,isabella.martin@company.com,True,Customer Service
+1159,Michael Miller,48,120355.55,Backend Engineer,Zürich,Unknown,michael.miller@company.com,false,Product
+1014,Chloe Lopez,58,139336.66,Marketing Director,Montreal,Unknown,chloe.lopez@company.com,0,Marketing
+1104,Christopher Jones,52,89954.48,Customer Support Specialist,,Unknown,christopher.jones@company.com,True,Finance
+1119,Anna Smith,38,130624.72,Frontend Developer,Montreal,Unknown,anna.smith@company.com,True,Marketing
+1090,Sofia Brown,38,141320.4,Product Manager,,Unknown,sofia.brown@company.com,1,Product
+1165,Michael Johnson,30,133355.63,Product Manager,Sydney,Unknown,michael.johnson@company.com,False,Customer Service
+1084,Héctor Jones,24,132726.99,DevOps Engineer,São Paulo,Unknown,héctor.jones@company.com,True,Sales
+1025,Mia Lopez,37,84082.4,Frontend Developer,São Paulo,Unknown,mia.lopez@company.com,1,Product
+1152,Camila Perez,38,147479.11,DevOps Engineer,Sydney,Unknown,camila.perez@company.com,True,
+1037,Lucia Smith,29,123431.3,Sales Associate,,Unknown,lucia.smith@company.com,1,Product
+1046,Zoé Martin,65,105899.87,Software Engineer,,Unknown,zoé.martin@company.com,True,Operations
+1162,Sofia Sanchez,62,105679.65,Data Analyst,Tokyo,Unknown,sofia.sanchez@company.com,1,Engineering
+1100,William Rodriguez,64,83509.77,Product Manager,Paris,Unknown,william.rodriguez@company.com,True,Customer Service
+1146,Anna Johnson,25,107695.75,Data Analyst,Montreal,Unknown,anna.johnson@company.com,True,Product
+1110,Maria Miller,44,116101.81,HR Manager,Zurich,Unknown,maria.miller@company.com,1,Operations
+1047,Robert Perez,52,50365.91,Marketing Director,Sydney,Unknown,robert.perez@company.com,true,Marketing
+1034,Chloe Johnson,24,68998.9,Data Analyst,Montréal,Unknown,chloe.johnson@company.com,True,Customer Service
+1136,Christopher Martin,25,135529.6,DevOps Engineer,Berlin,Unknown,christopher.martin@company.com,False,Operations
+1121,Maria Sanchez,54,69691.97,Software Engineer,Berlin,Unknown,maria.sanchez@company.com,True,Human Resources
+1030,Daniel Lopez,30,139225.84,Software Engineer,Tokyo,Unknown,daniel.lopez@company.com,false,Finance
+1099,Elena Johnson,49,92333.12,Software Engineer,Zürich,Unknown,elena.johnson@company.com,True,Product
+1018,Anthony Miller,39,143935.89,Backend Engineer,,Unknown,anthony.miller@company.com,True,Operations
+1158,Chloe Martin,24,84917.27,Software Engineer,Montréal,Unknown,chloe.martin@company.com,True,Marketing
+1070,Isabella Perez,52,87532.29,HR Manager,Sydney,Unknown,isabella.perez@company.com,True,Human Resources
+1020,Chloe Jones,32,133281.03,DevOps Engineer,,Unknown,chloe.jones@company.com,True,Operations
+1023,Thomas Perez,44,63549.7,DevOps Engineer,Berlin,Unknown,thomas.perez@company.com,True,Marketing
+1007,Daniel Smith,32,125216.89,DevOps Engineer,São Paulo,Unknown,daniel.smith@company.com,True,Finance
+1056,Zoé Gonzalez,36,113588.92,DevOps Engineer,São Paulo,Unknown,zoé.gonzalez@company.com,True,Marketing
+1107,John Davis,56,56331.01,Product Manager,Montreal,Unknown,john.davis@company.com,1,Human Resources
+1016,Thomas Martinez,64,133167.57,HR Manager,,Unknown,thomas.martinez@company.com,True,
+1039,Daniel Sanchez,24,103758.15,DevOps Engineer,,Unknown,daniel.sanchez@company.com,True,Customer Service
+1036,Thomas Jones,46,50963.9,Software Engineer,São Paulo,Unknown,thomas.jones@company.com,True,Marketing
+1071,Maria Johnson,27,77597.55,Customer Support Specialist,New York,Unknown,maria.johnson@company.com,False,Human Resources
+1127,Maria Perez,22,115837.28,Product Manager,Zürich,Unknown,maria.perez@company.com,True,Sales
+1108,Sofia Garcia,24,62423.56,Data Analyst,Tokyo,Unknown,sofia.garcia@company.com,True,Operations
+1149,Isabella Lopez,62,64834.01,Customer Support Specialist,Tokyo,Unknown,isabella.lopez@company.com,false,Product
+1107,John Davis,56,56331.01,Product Manager,Montreal,Unknown,john.davis@company.com,True,Human Resources
+1126,James Garcia,36,133867.29,Sales Associate,São Paulo,Unknown,james.garcia@company.com,1,Operations
+1033,Chloe Williams,51,69213.92,DevOps Engineer,New York,Unknown,chloe.williams@company.com,1,Operations
+1005,Anthony Miller,35,146890.05,DevOps Engineer,Berlin,Unknown,anthony.miller@company.com,True,Customer Service
+1043,Daniel Sanchez,31,60450.45,Frontend Developer,São Paulo,Unknown,daniel.sanchez@company.com,True,Finance
+1074,Mia Miller,30,91637.7,Frontend Developer,Montréal,Unknown,mia.miller@company.com,False,Operations
+1137,Chloe Johnson,34,69901.63,Sales Associate,Sao Paulo,Unknown,chloe.johnson@company.com,True,Marketing
+1044,David Gonzalez,27,115683.48,Marketing Director,Toronto,Unknown,david.gonzalez@company.com,True,Customer Service
+1118,James Perez,60,83073.06,Product Manager,Zurich,Unknown,james.perez@company.com,True,Engineering
+1073,Michael Garcia,62,146264.66,Data Analyst,Sydney,Unknown,michael.garcia@company.com,False,Sales
+1098,David Hernandez,59,100106.32,HR Manager,Montréal,Unknown,david.hernandez@company.com,False,Finance
+1069,Thomas Jones,53,58667.03,DevOps Engineer,New York,Unknown,thomas.jones@company.com,True,Operations
+1116,James Davis,41,119595.15,Product Manager,Zurich,Unknown,james.davis@company.com,True,Finance
+1168,Christopher Rodriguez,60,112612.69,Data Analyst,Zürich,Unknown,christopher.rodriguez@company.com,True,Human Resources
+1035,Daniel Jones,29,108931.43,Marketing Director,Sao Paulo,Unknown,daniel.jones@company.com,True,Human Resources
+1079,Thomas Perez,56,63743.21,Product Manager,Montréal,Unknown,thomas.perez@company.com,True,
+1014,Chloe Lopez,58,139336.66,Marketing Director,Montreal,Unknown,chloe.lopez@company.com,False,
+1033,Chloe Williams,51,69213.92,DevOps Engineer,New York,Unknown,chloe.williams@company.com,true,Operations
+1087,Christopher Martinez,36,114354.01,DevOps Engineer,,Unknown,christopher.martinez@company.com,False,Marketing
+1106,David Miller,48,82885.95,Marketing Director,,Unknown,david.miller@company.com,1,Human Resources
+1093,John Rodriguez,47,112565.61,Product Manager,Zürich,Unknown,john.rodriguez@company.com,True,Engineering
+1063,Robert Jones,63,132782.67,Backend Engineer,,Unknown,robert.jones@company.com,False,Product
+1089,Lucia Perez,50,65882.53,Software Engineer,,Unknown,lucia.perez@company.com,True,
+1013,Isabella Brown,44,138882.06,Customer Support Specialist,Sydney,Unknown,isabella.brown@company.com,true,Marketing
+1167,Sofia Jones,61,111815.07,Software Engineer,Paris,Unknown,sofia.jones@company.com,False,Sales
+1145,Isabella Sanchez,34,91572.73,DevOps Engineer,São Paulo,Unknown,isabella.sanchez@company.com,True,Sales
+1112,Maria Smith,28,67318.23,Marketing Director,Zürich,Unknown,maria.smith@company.com,True,
+1011,Daniel Perez,58,142025.02,Customer Support Specialist,London,Unknown,daniel.perez@company.com,False,Marketing
